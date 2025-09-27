@@ -1,3 +1,4 @@
+---
 # Display name
 title: Maher Al Islam
 
@@ -133,13 +134,13 @@ awards:
     awarder: Journal of Computer Networks (Elsevier)
     icon: hero/trophy
     summary: |
-      Recognized for peer-review contributions to the *Computer Networks* journal. :contentReference[oaicite:0]{index=0}  
+      Recognized for peer-review contributions to the *Computer Networks* journal.  
   - title: Course Completion – Stateflow Onramp
     date: '2024-01-20'
     awarder: MathWorks
     icon: hero/book-open
     summary: |
-      Completed training on Stateflow modeling for control and CPS. :contentReference[oaicite:1]{index=1}  
+      Completed training on Stateflow modeling for control and CPS.  
   - title: Course Completion – Simulink Onramp
     date: '2024-01-15'
     awarder: MathWorks
@@ -149,4 +150,4 @@ awards:
 
 ---
 
-Maher Al Islam is a PhD researcher at West Virginia University specializing in AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems. His research has been published in leading venues including IEEE and Elsevier, with recognition through international travel grants and national-level competitions. He has also earned top ranks in cybersecurity Capture the Flag challenges, and continues to bridge AI theory with secure real-world deployment.  
+Maher Al Islam is a PhD researcher at West Virginia University specializing in AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems. His research has been published in leading venues including IEEE and Elsevier, with recognition through international travel grants and national-level competitions. He has also earned top ranks in cybersecurity Capture the Flag challenges, and continues to bridge AI theory with secure real-world deployment.
