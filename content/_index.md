@@ -29,21 +29,22 @@ sections:
       columns: 2
       date_format: 'January 2006'
       is_education_first: true
-- block: markdown
-  content:
-    title: Awards & Certifications
-    text: |-
-      ### Diamond Badge (97th Percentile) – NCL Spring 2025  
-      ![NCL Badge](uploads/NCL.jpg)  
-      Ranked top 3% nationally among ~8,500 participants.  
 
-      ### 3rd Place – WVU AI Symposium Poster Contest  
-      ![WVU AI Symposium](uploads/WVU_AI_Symp.jpg)  
-      Poster: *AI in Autonomous Vehicles Under Siege*.  
+  - block: markdown
+    content:
+      title: Awards & Certifications
+      text: |-
+        ### Diamond Badge (97th Percentile) – NCL Spring 2025  
+        ![NCL Badge](uploads/NCL.jpg)  
+        Ranked top 3% nationally among ~8,500 participants.  
 
-      ### Best Poster Award – IEEE SmartComp 2024  
-      ![SmartComp 2024](uploads/SmartComp_2024.jpg)  
-      Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
+        ### 3rd Place – WVU AI Symposium Poster Contest  
+        ![WVU AI Symposium](uploads/WVU_AI_Symp.jpg)  
+        Poster: *AI in Autonomous Vehicles Under Siege*.  
+
+        ### Best Poster Award – IEEE SmartComp 2024  
+        ![SmartComp 2024](uploads/SmartComp_2024.jpg)  
+        Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
 
   - block: resume-skills
     content:
