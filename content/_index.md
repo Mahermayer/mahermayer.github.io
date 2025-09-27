@@ -7,7 +7,6 @@ design:
   spacing: '6rem'
 
 sections:
-  # Bio + photo + CV
   - block: resume-biography
     content:
       username: admin
@@ -21,16 +20,14 @@ sections:
         size: medium
         shape: circle
 
-  # Education card
-  - block: resume-education
+  - block: resume-experience
     content:
-      title: Education
+      title: Education & Experience
       username: admin
     design:
       view: card
       columns: 2
 
-  # Skills card
   - block: resume-skills
     content:
       title: Skills
@@ -39,7 +36,6 @@ sections:
       view: card
       columns: 2
 
-  # Languages card
   - block: resume-languages
     content:
       title: Languages
@@ -48,7 +44,6 @@ sections:
       view: card
       columns: 2
 
-  # Awards & Certifications
   - block: resume-awards
     content:
       title: Awards & Certifications
