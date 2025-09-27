@@ -7,7 +7,7 @@ first_name: Maher
 last_name: Al Islam
 
 # Pronouns (optional)
-pronouns: he/him
+#pronouns: he/him
 
 # Is this the primary user of the site?
 superuser: true
