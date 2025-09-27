@@ -3,27 +3,21 @@ title: Courses
 summary: Graduate and Research-Relevant Courses
 type: landing
 
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
-
 sections:
-  - block: collection
-    id: courses
+  - block: markdown
     content:
       title: Graduate Coursework
-      filters:
-        tag: Course
-        kinds:
-          - section
+      text: |-
+        - Game Theory and Security (VCU)  
+        - Intelligent Linear Systems (VCU)  
+        - Neural Nets and Deep Learning (VCU)  
+        - Computer Networks & Communication (VCU)  
+        - Cyber-Physical Systems (VCU)  
+        - Network & System Security (VCU)  
+        - Machine Learning (VCU)  
+        - Internet of Things (VCU)  
+        - Neural Networks (WVU)  
+        - Advanced Computer Networking (WVU)  
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 2
+      columns: '1'
 ---
-
