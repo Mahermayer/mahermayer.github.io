@@ -33,14 +33,14 @@ sections:
     design:
       columns: '1'
 
-  - block: resume-skills-2
+  - block: resume-skills
     content:
       title: Skills
       username: admin
     design:
       columns: '2'
 
-  - block: resume-languages-2
+  - block: resume-languages
     content:
       title: Languages
       username: admin
