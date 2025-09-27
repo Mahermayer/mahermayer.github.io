@@ -19,5 +19,5 @@ sections:
         - Neural Networks (WVU)  
         - Advanced Computer Networking (WVU)  
     design:
-      columns: '1'
+      columns: '2'
 ---
