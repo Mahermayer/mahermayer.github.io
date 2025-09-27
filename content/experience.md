@@ -1,5 +1,5 @@
 ---
-title: 'Resume'
+title: 'Experience'
 date: 2023-10-24
 type: landing
 
@@ -9,14 +9,11 @@ design:
 sections:
   - block: resume-experience
     content:
+      title: Experience
       username: admin
     design:
       date_format: 'January 2006'
       is_education_first: false
-
-  - block: resume-education
-    content:
-      username: admin
 
   - block: resume-skills
     content:
