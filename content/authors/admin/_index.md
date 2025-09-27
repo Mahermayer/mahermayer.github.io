@@ -112,11 +112,13 @@ awards:
     date: '2025-05-07'
     awarder: National Cyber League (Cyber Skyline)
     icon: hero/shield-check
+    image: uploads/NCL.jpg
     summary: |
       Ranked top 3% nationally among ~8,500 participants. Excelled in cryptography, OSINT, exploitation, network analysis, web security, and password cracking.
   - title: 3rd Place – WVU AI Symposium Poster Contest
     date: '2025-04-20'
     awarder: West Virginia University
+    image: uploads/WVU_AI_Symp.jpg
     icon: hero/academic-cap
     summary: |
       Poster: *AI in Autonomous Vehicles Under Siege*. Explored black-box vs. white-box perspectives in adversarial AI for AVs.  
@@ -124,18 +126,21 @@ awards:
     date: '2022-04-25'
     awarder: IEEE ComSoc
     icon: hero/academic-cap
+    image: uploads/Student_Travel_Grant.jpg
     summary: |
       Awarded travel grant to present research at IEEE/IFIP NOMS 2022 in Budapest, Hungary.  
   - title: Elsevier Certificate of Reviewing
     date: '2021-12-31'
     awarder: Journal of Computer Networks (Elsevier)
     icon: hero/trophy
+    image : uploads/Certificate_COMPNW_Recognised.pdf
     summary: |
       Recognized for peer-review contributions to the *Computer Networks* journal.  
   - title: Course Completion – Stateflow Onramp
     date: '2024-01-20'
     awarder: MathWorks
     icon: hero/book-open
+    image: uploads/Simulink Onramp certificate.pdf
     summary: |
       Completed training on Stateflow modeling for control and CPS.  
   - title: Course Completion – Simulink Onramp
