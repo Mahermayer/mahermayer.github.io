@@ -7,6 +7,7 @@ design:
   spacing: '6rem'
 
 sections:
+  # Bio + photo + CV
   - block: resume-biography
     content:
       username: admin
@@ -20,29 +21,39 @@ sections:
         size: medium
         shape: circle
 
-  - block: markdown
+  # Education card
+  - block: resume-education
     content:
-      title: '📚 My Research'
-      text: |-
-        I am a PhD researcher at West Virginia University specializing in **AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems**.  
-        My work bridges AI theory with secure real-world deployment.
+      title: Education
+      username: admin
     design:
-      columns: '1'
+      view: card
+      columns: 2
 
+  # Skills card
   - block: resume-skills
     content:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      view: card
+      columns: 2
 
+  # Languages card
   - block: resume-languages
     content:
       title: Languages
       username: admin
+    design:
+      view: card
+      columns: 2
 
+  # Awards & Certifications
   - block: resume-awards
     content:
       title: Awards & Certifications
       username: admin
+    design:
+      view: card
+      columns: 2
 ---
