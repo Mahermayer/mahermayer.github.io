@@ -129,9 +129,7 @@ awards:
     image: uploads/SmartComp_2024.jpg
     summary: |
       Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
-      Awarded Best Poster at IEEE SmartComp 2024.
-  
-  
+      Awarded Best Poster at IEEE SmartComp 2024.  
   - title: IEEE/IFIP Student Travel Grant
     date: '2022-04-25'
     awarder: IEEE ComSoc
