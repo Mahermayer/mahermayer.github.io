@@ -52,19 +52,19 @@ education:
     date_start: 2024-08-01
     summary: |
       Research focus: AI safety and adversarial robustness in autonomous vehicles and cyber-physical systems.  
-  - area: MS in Electrical & Computer Engineering
+  - area: MS in Electrical & Computer Engineering (GPA: 4.0/4.0)
     institution: Virginia Commonwealth University
     date_start: 2021-01-20
     date_end: 2024-07-31
     summary: |
       GPA: 4.0/4.0  
       Specialized in cyber-physical systems, system modelling, and network security.  
-  - area: BS in Electrical & Electronics Engineering
-    institution: University of Dhaka
-    date_start: 2014-01-01
-    date_end: 2018-12-31
-    summary: |
-      Minored in Mathematics. Active in robotics and AI research groups.
+  #- area: BS in Electrical & Electronics Engineering
+   # institution: University of Dhaka
+    #date_start: 2014-01-01
+    #date_end: 2018-12-31
+    #summary: |
+     # Minored in Mathematics. Active in robotics and AI research groups.
 
 work:
   - position: Graduate Researcher
