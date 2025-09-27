@@ -1,6 +1,6 @@
 ---
 title: Courses
-summary: My courses
+summary: Graduate and Research-Relevant Courses
 type: landing
 
 cascade:
@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Graduate Coursework
       filters:
         tag: Course
         kinds:
@@ -24,5 +24,6 @@ sections:
       show_read_time: false
       show_date: false
       show_read_more: false
-      columns: 1
+      columns: 2
 ---
+
