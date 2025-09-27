@@ -7,6 +7,7 @@ design:
   spacing: '6rem'
 
 sections:
+  # Bio + photo + CV
   - block: resume-biography
     content:
       username: admin
@@ -20,6 +21,7 @@ sections:
         size: medium
         shape: circle
 
+  # Education & Experience together
   - block: resume-experience
     content:
       title: Education & Experience
@@ -27,7 +29,10 @@ sections:
     design:
       view: card
       columns: 2
+      date_format: 'January 2006'
+      is_education_first: true
 
+  # Skills
   - block: resume-skills
     content:
       title: Skills
@@ -36,6 +41,7 @@ sections:
       view: card
       columns: 2
 
+  # Languages
   - block: resume-languages
     content:
       title: Languages
@@ -44,6 +50,7 @@ sections:
       view: card
       columns: 2
 
+  # Awards & Certifications
   - block: resume-awards
     content:
       title: Awards & Certifications
