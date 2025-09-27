@@ -1,9 +1,5 @@
----
 # Display name
 title: Maher Al Islam
-
-# Name pronunciation (optional)
-#name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Maher
@@ -12,10 +8,6 @@ last_name: Al Islam
 # Pronouns (optional)
 pronouns: he/him
 
-# Status emoji
-#status:
-  #icon: 🚀
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -23,149 +15,138 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Researcher in AI & Cybersecurity
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography box
 organizations:
-  - name: West Virginia Univeristy
-    url: https://ai.meta.com/](https://www.wvu.edu
+  - name: West Virginia University
+    url: https://www.wvu.edu
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:maheralislam.ai@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/NoobSaipot
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/maheralislam/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=5Hb5vhEAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-8893-7153
 
 interests:
-  - Autonomous Vehicle
+  - Autonomous Vehicles
   - Adversarial AI
+  - Cybersecurity for CPS
   - Network Security
-  - Large Language Models
-  - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
+  - Computer Vision
+  - AI Safety & Ethics
 
 education:
-  - area: PhD Computer Engineering (AI Focus)
+  - area: PhD in Computer Engineering (AI & Cybersecurity)
     institution: West Virginia University
     date_start: 2024-08-01
-    #date_end: 2019-06-30
     summary: |
-      Working on cybersecurity for embodied AI in focused on autonomous vehicle. 
-      #text: 'Read Thesis'
-      #url: 'https://example.com/thesis.pdf'
-  - area: MS Electrical & Computer Engineering
-    institution: Carnegie Mellon University
+      Research focus: AI safety and adversarial robustness in autonomous vehicles and cyber-physical systems.  
+  - area: MS in Electrical & Computer Engineering
+    institution: Virginia Commonwealth University
     date_start: 2021-01-20
     date_end: 2024-07-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in cyber-physical systems, system modelling and network security.
-  - #area: BS Electrical & Electronics Engineering
-    #institution: University of Dhaka
-    #date_start: 2009-09-01
-    #date_end: 2013-05-31
-    #summary: |
-      #GPA: 3.9/4.0
-
-      #Minored in Mathematics. President of AI Club.
+      GPA: 4.0/4.0  
+      Specialized in cyber-physical systems, system modelling, and network security.  
+  - area: BS in Electrical & Electronics Engineering
+    institution: University of Dhaka
+    date_start: 2014-01-01
+    date_end: 2018-12-31
+    summary: |
+      Minored in Mathematics. Active in robotics and AI research groups.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+  - position: Graduate Researcher
+    company_name: West Virginia University
+    company_url: https://www.wvu.edu
+    date_start: 2024-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      - Conducting research on adversarial AI, trustworthy autonomy, and CPS security.  
+      - Developing resilient AI models for real-world deployment in autonomous vehicles.  
+  - position: Graduate Research Assistant
+    company_name: Virginia Commonwealth University
+    company_url: https://www.vcu.edu
+    date_start: 2021-01-20
+    date_end: 2024-07-31
+    summary: |
+      - Led research in AI-driven security for smart cities and CPS testbeds (OpenCyberCity).  
+      - Published multiple peer-reviewed papers on adversarial AI, smart IoT systems, and game-theoretic cybersecurity.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
+      - name: Python, MATLAB, ROS, PyTorch
         percent: 95
         icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
+      - name: Reinforcement Learning & Control
+        percent: 90
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
+      - name: Adversarial AI & Cybersecurity
+        percent: 100
+        icon: shield-check
+      - name: Computer Vision & Perception
+        percent: 90
+        icon: eye
+      - name: Cloud & Networked CPS
         percent: 85
         icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Bengali
+    percent: 100
+  - name: Hindi/Urdu
+    percent: 70
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: Diamond Badge (97th Percentile) – NCL Spring 2025 Individual CTF
+    date: '2025-05-07'
+    awarder: National Cyber League (Cyber Skyline)
+    icon: hero/shield-check
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+      Ranked top 3% nationally among ~8,500 participants. Excelled in cryptography, OSINT, exploitation, network analysis, web security, and password cracking.
+  - title: 3rd Place – WVU AI Symposium Poster Contest
+    date: '2025-04-20'
+    awarder: West Virginia University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Poster: *AI in Autonomous Vehicles Under Siege*. Explored black-box vs. white-box perspectives in adversarial AI for AVs.  
+  - title: IEEE/IFIP Student Travel Grant
+    date: '2022-04-25'
+    awarder: IEEE ComSoc
+    icon: hero/academic-cap
+    summary: |
+      Awarded travel grant to present research at IEEE/IFIP NOMS 2022 in Budapest, Hungary.  
+  - title: Elsevier Certificate of Reviewing
+    date: '2021-12-31'
+    awarder: Journal of Computer Networks (Elsevier)
+    icon: hero/trophy
+    summary: |
+      Recognized for peer-review contributions to the *Computer Networks* journal. :contentReference[oaicite:0]{index=0}  
+  - title: Course Completion – Stateflow Onramp
+    date: '2024-01-20'
+    awarder: MathWorks
+    icon: hero/book-open
+    summary: |
+      Completed training on Stateflow modeling for control and CPS. :contentReference[oaicite:1]{index=1}  
+  - title: Course Completion – Simulink Onramp
+    date: '2024-01-15'
+    awarder: MathWorks
+    icon: hero/book-open
+    summary: |
+      Completed simulation and modeling training in Simulink for CPS and AV control systems.  
+
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Maher Al Islam is a PhD researcher at West Virginia University specializing in AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems. His research has been published in leading venues including IEEE and Elsevier, with recognition through international travel grants and national-level competitions. He has also earned top ranks in cybersecurity Capture the Flag challenges, and continues to bridge AI theory with secure real-world deployment.  
