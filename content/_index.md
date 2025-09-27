@@ -7,17 +7,13 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       username: admin
       text: ''
       button:
         text: Download CV
         url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
     design:
       css_class: hbx-bg-gradient
       avatar:
@@ -38,21 +34,15 @@ sections:
       title: Skills
       username: admin
     design:
-      columns: '2'
+      show_skill_percentage: false
 
   - block: resume-languages
     content:
       title: Languages
       username: admin
-    design:
-      columns: '2'
 
-  - block: accomplishments
+  - block: resume-awards
     content:
       title: Awards & Certifications
       username: admin
-      count: 0
-    design:
-      view: card
-      columns: 2
 ---
