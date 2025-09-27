@@ -31,11 +31,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/NoobSaipot
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/maheralislam/
+    url: https://www.linkedin.com/in/maher-al-islam
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=5Hb5vhEAAAAJ
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-8893-7153
+    url: https://scholar.google.com/citations?user=5Hb5vhEAAAAJ](https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
+  #- icon: academicons/orcid
+   # url: https://orcid.org/0000-0002-8893-7153
 
 interests:
   - Autonomous Vehicles
@@ -87,20 +87,18 @@ skills:
   - name: Technical Skills
     items:
       - name: Python, MATLAB, ROS, PyTorch
-        percent: 95
-        icon: code-bracket
-      - name: Reinforcement Learning & Control
-        percent: 90
-        icon: chart-bar
+       # percent: 95
+        #icon: code-bracket
+
+        #icon: chart-bar
       - name: Adversarial AI & Cybersecurity
-        percent: 100
-        icon: shield-check
-      - name: Computer Vision & Perception
-        percent: 90
-        icon: eye
-      - name: Cloud & Networked CPS
-        percent: 85
-        icon: cloud
+        #percent: 100
+        #icon: shield-check
+      - name: Object Detection & Image Segmentation
+        #percent: 80
+        #icon: eye
+      - name: Markov Decision process, Reinforcement Learning, PID, MPC & Control
+        #percent: 60
 
 languages:
   - name: English
