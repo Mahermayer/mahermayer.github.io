@@ -39,6 +39,7 @@ sections:
     design:
       view: card
       columns: 2
+      css_class: no-top-margin
   - block: markdown
     content:
       title: Awards & Certifications
