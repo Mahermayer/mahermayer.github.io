@@ -1,5 +1,5 @@
 ---
-title: "Diamond Badge (97th Percentile) – NCL Spring 2025 Individual CTF"
+title: "Diamond Badge (97th Percentile) – NCL Spring 2025 CTF"
 date: 2025-05-07
 awarder: "National Cyber League (Cyber Skyline)"
 icon: hero/shield-check
