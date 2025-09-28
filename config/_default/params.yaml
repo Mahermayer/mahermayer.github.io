@@ -58,3 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+news:
+  design:
+    title_style: h4
+    summary_style: body
+
