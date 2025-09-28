@@ -4,7 +4,7 @@ title: "Awards & Certifications"
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3rem'
 
 sections:
   - block: collection
@@ -15,7 +15,7 @@ sections:
         folders:
           - awards
     design:
-      view: portfolio
+      view: article-grid
       columns: 3
       show_date: true
       show_read_time: false
