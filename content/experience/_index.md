@@ -4,7 +4,7 @@ type: landing
 
 design:
   spacing: '1.5rem' 
-  full_width: true   # ✅ expand text across page
+  wide: true 
   columns: "1"
 
 sections:
