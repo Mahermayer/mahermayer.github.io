@@ -16,4 +16,11 @@ sections:
       filters:
         folders:
           - publication
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 1
+      show_date: false
+      show_read_time: false
+      show_read_more: false
 ---
