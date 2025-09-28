@@ -7,21 +7,27 @@ main:
   - name: Bio
     url: /
     weight: 10
+
+  - name: Exp
+    url: experience/
+    weight: 20
+
   - name: Papers
     url: /#papers
-    weight: 11
-  #- name: Talks
-   # url: /#talks
-    #weight: 12
+    weight: 30
+
+  - name: Project
+    url: projects/
+    weight: 50
+
+  - name: Courses
+    url: courses/
+    weight: 60
+
+  - name: Extra
+    url: extracurricular/
+    weight: 70
+
   - name: News
     url: /#news
     weight: 13
-  - name: Experience
-    url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
-  - name: Courses
-    url: courses/
-    weight: 40
