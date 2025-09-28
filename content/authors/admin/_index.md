@@ -1,5 +1,3 @@
-This is my thors admin index.nd
-
 ---
 # Display name
 title: Maher Al Islam
