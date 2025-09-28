@@ -1,16 +1,22 @@
 ---
 title: "Experience"
-date: 2022-10-24
+date: 2024-05-19
 type: landing
 
+design:
+  spacing: '5rem'
+
 sections:
-  - block: resume-experience
+  - block: collection
     content:
       title: Professional Experience
-      username: admin
+      text: A summary of my academic and research roles.
+      filters:
+        folders:
+          - experience
     design:
-      view: list  # list view gives more space for details
-      columns: 1
-      date_format: 'January 2006'
-      is_education_first: false
+      view: article-list
+      show_date: true
+      show_summary: true
+      show_read_more: false
 ---
