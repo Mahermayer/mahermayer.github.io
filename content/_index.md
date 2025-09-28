@@ -30,6 +30,15 @@ sections:
       date_format: 'January 2006'
       is_education_first: true
 
+
+
+  - block: resume-skills
+    content:
+      title: Skills
+      username: admin
+    design:
+      view: card
+      columns: 2
   - block: markdown
     content:
       title: Awards & Certifications
@@ -45,15 +54,6 @@ sections:
         ### Best Poster Award – IEEE SmartComp 2024  
         ![SmartComp 2024](uploads/SmartComp_2024.jpg)  
         Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
-
-  - block: resume-skills
-    content:
-      title: Skills
-      username: admin
-    design:
-      view: card
-      columns: 2
-
   - block: resume-awards
     content:
       title: Awards & Certifications
