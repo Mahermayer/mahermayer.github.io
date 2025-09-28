@@ -24,7 +24,7 @@ main:
     url: courses/
     weight: 50
   - name: Awards
-    url: award/
+    url: awards/
     weight: 60
 
   - name: Extra
