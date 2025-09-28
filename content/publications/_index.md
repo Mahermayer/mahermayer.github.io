@@ -6,7 +6,7 @@ cms_exclude: true
 view: citation
 
 # Import from BibTeX
-bibtex: "publications.bib"
+bibtex: publications.bib
 
 # Optional header image (relative to `static/media/` folder).
 banner:
