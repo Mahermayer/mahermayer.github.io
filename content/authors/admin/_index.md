@@ -128,7 +128,7 @@ awards:
     date: '2024-07-02'
     awarder: IEEE Smart Computing Conference
     icon: hero/academic-cap
-    image: uploads/SmartComp_2024.pdf
+    image: uploads/SmartComp_2024.jpg
     summary: |
       Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
       Awarded Best Poster at IEEE SmartComp 2024.
@@ -137,7 +137,7 @@ awards:
     date: '2024-01-20'
     awarder: MathWorks
     icon: hero/book-open
-    image: uploads/Stateflow_Onramp.pdf
+    image: uploads/Stateflow_Onramp.jpg
     summary: |
       Completed training on Stateflow modeling for control and CPS modeling.
     
@@ -153,7 +153,7 @@ awards:
     date: '2021-12-31'
     awarder: Journal of Computer Networks (Elsevier)
     icon: hero/trophy
-    image: uploads/Certificate_COMPNW_Recognised.pdf
+    image: uploads/Certificate_COMPNW_Recognised.jgp
     summary: |
       Recognized for peer-review contributions to the *Computer Networks* journal.  
 
