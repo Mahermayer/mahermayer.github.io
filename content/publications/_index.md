@@ -15,7 +15,7 @@ sections:
         (Auto-imported from my BibTeX file.)
       filters:
         folders:
-          - publication
+          - publications
     design:
       view: article-grid
       fill_image: false
