@@ -54,14 +54,6 @@ sections:
       view: card
       columns: 2
 
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
-    design:
-      view: card
-      columns: 2
-
   - block: resume-awards
     content:
       title: Awards & Certifications
