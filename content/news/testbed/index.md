@@ -7,7 +7,7 @@ links:
   - type: website link
     url: "https://news.vcu.edu/article/2022/07/new-vcu-engineering-test-beds-will-boost-security-of-nextg-medical-devices-and-smart-cities"
 tags:
-  - Hugo
+  - Testbed
   - HugoBlox
   - Markdown
 ---
