@@ -30,7 +30,7 @@ sections:
         - Cyber-Physical Systems
         - AI Safety & Ethics  
     design:
-      columns: 1
+      columns: 2
     
   - block: resume-experience
     content:
