@@ -3,14 +3,14 @@ title: "Professional Experience"
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '3rem'
 
 sections:
   - block: markdown
     content:
       title: Professional Experience
       text: |
-        ### Graduate Researcher  
+        ### Graduate Research Assistant  
         **West Virginia University** (Aug 2024 – Present)  
         - Conducting research on adversarial AI, trustworthy autonomy, and CPS security.  
         - Developing resilient AI models for real-world deployment in autonomous vehicles.  
