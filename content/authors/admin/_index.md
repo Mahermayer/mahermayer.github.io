@@ -33,11 +33,12 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
 
-interests:
-  - Autonomous Vehicles
-  - Adversarial AI
-  - Cybersecurity for Cyber-Physical Systems
-  - AI Safety & Ethics
+params:
+  Research interests:
+    - Autonomous Vehicles
+    - Adversarial AI
+    - Cybersecurity for Cyber-Physical Systems
+    - AI Safety & Ethics
 
 education:
   - area: PhD in Computer Engineering (AI & Cybersecurity)
@@ -105,6 +106,4 @@ skills:
 
 ---
 
-I am Maher, a PhD researcher at West Virginia University specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems.  
-My work has been published in leading IEEE venues and recognized with a Best Poster Award, international travel grants, and national-level competition honors.  
-I have also ranked highly in cybersecurity Capture the Flag challenges, and remain committed to advancing AI theory into secure, reliable deployment for real-world intelligent systems.
+I am Maher, a PhD researcher at West Virginia University specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems. My work has been published in leading IEEE venues and recognized with a Best Poster Award, international travel grants, and national-level competition honors. I have also ranked highly in cybersecurity Capture the Flag challenges, and remain committed to advancing AI theory into secure, reliable deployment for real-world intelligent systems.
