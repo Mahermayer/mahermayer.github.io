@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: indigo
+  page:
+    width: wide   # options: normal, wide, full  
 
 # SEO
 marketing:
@@ -59,8 +61,4 @@ features:
   privacy_pack:
     enable: false
 
-news:
-  design:
-    title_style: h4
-    summary_style: body
 
