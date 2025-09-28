@@ -3,12 +3,12 @@ title: "Professional Experience"
 type: landing
 
 design:
-  spacing: '1.5rem'
-  full_width: true   # expands across the page
+  spacing: '2rem'
+  width: wide 
   columns: "1"
 
 sections:
-  - block: prose   # ✅ instead of markdown
+  - block: markdown   # ✅ instead of markdown
     content:
       title: Professional Experience
       text: |
@@ -43,6 +43,6 @@ sections:
         - **Elsevier Computer Networks**  
 
     design:
-      full_width: true
+      width: wide 
       columns: "1"
 ---
