@@ -92,10 +92,11 @@ skills:
 
   - name: Autonomous Systems
     items:
-      - name: ROS for AV & Robotics
-      - name: Lane Following & Control (PID, MPC, FSM)
+      - name: ROS for AV & Robotics      
+      - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
       - name: Object Detection & Segmentation (YOLO, UNet)
-      - name: Sensor Fusion & CPS Modeling
+      - name: Sensor Fusion (Camera & LiDAR)
+      - name: System Modeling (Smart Home & Smart Water Distribution) 
 
   - name: Cybersecurity
     items:
@@ -106,9 +107,9 @@ skills:
 
   - name: Tools & Programming
     items:
-      - name: Python, MATLAB, C, ROS, PyTorch
+      - name: Python, MATLAB, C, ROS, PyTorch, TensorFlow
       - name: Simulink & Stateflow (CPS modeling)
-      - name: TCP/UDP, MQTT, Raspberry Pi & IoT Systems
+      - name: TCP/UDP, MQTT, Raspberry Pi, Nvidia AGX, & IoT Systems
       - name: Git, Docker, Linux Networking
 
 #languages:
