@@ -123,4 +123,4 @@ skills:
 
 ---
 
-Maher Al Islam is a PhD researcher at West Virginia University specializing in AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems. His research has been published in leading venues including IEEE and Elsevier, with recognition through international travel grants and national-level competitions. He has also earned top ranks in cybersecurity Capture the Flag challenges, and continues to bridge AI theory with secure real-world deployment.
+Maher Al Islam is a PhD researcher at West Virginia University specializing in AI safety, adversarial robustness, and cybersecurity for autonomous vehicles and cyber-physical systems. His research has been published in leading venues including IEEE with recognition through best poster award, international travel grants and national-level competitions. He has also earned top ranks in cybersecurity Capture the Flag challenges, and continues to bridge AI theory with secure real-world deployment.
