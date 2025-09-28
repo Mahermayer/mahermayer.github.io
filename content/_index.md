@@ -20,22 +20,22 @@ sections:
         size: medium
         shape: circle
     
-- block: resume-skills
-  content:
-    title: Research Interests
-    username: admin
-    skills:
-      - name: Research Areas
-        items:
-          - name: Autonomous Vehicles
-          - name: Adversarial AI
-          - name: Cybersecurity
-          - name: Cyber-Physical Systems
-          - name: AI Safety & Ethics
-  design:
-    view: list  # or "card" if you want boxes
-    columns: 2
-  
+  - block: resume-skills
+    content:
+      title: Research Interests
+      username: admin
+      skills:
+        - name: Research Areas
+          items:
+            - name: Autonomous Vehicles
+            - name: Adversarial AI
+            - name: Cybersecurity
+            - name: Cyber-Physical Systems
+            - name: AI Safety & Ethics
+    design:
+      view: list  # or "card" if you want boxes
+      columns: 2
+    
   - block: resume-experience
     content:
       title: Education & Experience
