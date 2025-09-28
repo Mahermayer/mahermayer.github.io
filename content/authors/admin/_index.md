@@ -10,7 +10,7 @@ last_name: Al Islam
 #pronouns: he/him
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -33,13 +33,12 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
 
-params:
-  Research interests:
-    - Autonomous Vehicles
-    - Adversarial AI
-    - Cybersecurity for Cyber-Physical Systems
-    - AI Safety & Ethics
-
+# Interests
+interests:
+  - Autonomous Vehicles
+  - Adversarial AI
+  - Cybersecurity for Cyber-Physical Systems
+  - AI Safety & Ethics
 education:
   - area: PhD in Computer Engineering (AI & Cybersecurity)
     institution: West Virginia University
