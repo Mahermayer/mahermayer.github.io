@@ -20,22 +20,22 @@ sections:
         size: medium
         shape: circle
     
-  - block: markdown
-    content:
-      title: Research Interests
-      text: |-
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem 2rem;">
-          <ul>
-            <li>Autonomous Vehicles</li>
-            <li>Adversarial AI</li>
-            <li>Cybersecurity</li>
-          </ul>
-          <ul>
-            <li>Cyber-Physical Systems</li>
-            <li>AI Safety & Ethics</li>
-          </ul>
-        </div>
-    
+- block: resume-skills
+  content:
+    title: Research Interests
+    username: admin
+    skills:
+      - name: Research Areas
+        items:
+          - name: Autonomous Vehicles
+          - name: Adversarial AI
+          - name: Cybersecurity
+          - name: Cyber-Physical Systems
+          - name: AI Safety & Ethics
+  design:
+    view: list  # or "card" if you want boxes
+    columns: 2
+  
   - block: resume-experience
     content:
       title: Education & Experience
