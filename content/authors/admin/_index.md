@@ -41,9 +41,6 @@ interests:
   - Autonomous Vehicles
   - Adversarial AI
   - Cybersecurity for CPS
-  - Network Security
-  - Reinforcement Learning
-  - Computer Vision
   - AI Safety & Ethics
 
 education:
