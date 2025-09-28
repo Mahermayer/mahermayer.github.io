@@ -23,6 +23,9 @@ main:
   - name: Courses
     url: courses/
     weight: 60
+  - name: Awards
+    url: award/
+    weight: 60
 
   - name: Extra
     url: extracurricular/
