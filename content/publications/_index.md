@@ -17,7 +17,7 @@ sections:
         folders:
           - publications
     design:
-      view: article-grid
+      view: citation
       fill_image: false
       columns: 1
       show_date: false
