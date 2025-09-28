@@ -1,5 +1,5 @@
 ---
-title: Pandas
+title: OpenCyberCity Testbed
 date: 2023-10-26
 links:
   - type: site
@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+OCC Testbed developed to strengthen cybersecurity capabilities across the Commonwealth as part of the CCI initiative.
 
 <!--more-->
