@@ -24,13 +24,17 @@ sections:
     content:
       title: Research Interests
       text: |-
-        - Autonomous Vehicles  
-        - Adversarial AI  
-        - Cybersecurity 
-        - Cyber-Physical Systems
-        - AI Safety & Ethics  
-    design:
-      columns: 2
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem 2rem;">
+          <ul>
+            <li>Autonomous Vehicles</li>
+            <li>Adversarial AI</li>
+            <li>Cybersecurity</li>
+          </ul>
+          <ul>
+            <li>Cyber-Physical Systems</li>
+            <li>AI Safety & Ethics</li>
+          </ul>
+        </div>
     
   - block: resume-experience
     content:
