@@ -19,12 +19,12 @@ sections:
       avatar:
         size: medium
         shape: circle
-  - block: resume-interests
+  - block: about
     content:
       title: Research Interests
       username: admin
     design:
-      view: list
+      show_interests: true
       columns: 1
     
   - block: resume-experience
