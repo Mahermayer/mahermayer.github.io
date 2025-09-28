@@ -6,4 +6,10 @@ icon: hero/shield-check
 image: uploads/NCL.jpg
 summary: |
   Ranked top 3% nationally among ~8,500 participants. Excelled in cryptography, OSINT, exploitation, network analysis, web security, and password cracking.
+image:
+  filename: "uploads/NCL.jpg"
+  caption: "Diamond Badge – NCL Spring 2025"
+  focal_point: Center
+  preview_only: false
+
 ---
