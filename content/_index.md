@@ -42,7 +42,7 @@ sections:
       css_class: no-top-margin
   - block: markdown
     content:
-      title: Awards & Certifications
+      title: Awards
       text: |-
         ### Diamond Badge (97th Percentile) – NCL Spring 2025  
         ![NCL Badge](uploads/NCL.jpg)  
