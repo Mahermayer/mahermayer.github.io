@@ -8,6 +8,7 @@ design:
 sections:
   - block: resume-experience
     content:
+      username: ""   # prevents fallback to admin profile
       title: Professional Experience
       text: >
         A summary of my academic and research roles.  
