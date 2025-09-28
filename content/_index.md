@@ -55,11 +55,5 @@ sections:
         ### Best Poster Award – IEEE SmartComp 2024  
         ![SmartComp 2024](uploads/SmartComp_2024.jpg)  
         Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
-  - block: resume-awards
-    content:
-      title: Awards & Certifications
-      username: admin
-    design:
-      view: card
-      columns: 2
+
 ---
