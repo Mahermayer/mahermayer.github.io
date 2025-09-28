@@ -1,5 +1,5 @@
 ---
-title: OpenCyberCity Testbed
+title: pandas
 date: 2023-10-26
 links:
   - type: site
@@ -10,6 +10,6 @@ tags:
   - Markdown
 ---
 
-OCC Testbed developed to strengthen cybersecurity capabilities across the Commonwealth as part of the CCI initiative.
+scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
 
 <!--more-->
