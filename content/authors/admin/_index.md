@@ -33,12 +33,6 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
 
-# Interests
-interests:
-  - Autonomous Vehicles
-  - Adversarial AI
-  - Cybersecurity for Cyber-Physical Systems
-  - AI Safety & Ethics
 education:
   - area: PhD in Computer Engineering (AI & Cybersecurity)
     institution: West Virginia University
