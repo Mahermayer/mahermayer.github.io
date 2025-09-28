@@ -15,7 +15,7 @@ sections:
         folders:
           - awards
     design:
-      view: article-grid
+      view: portfolio
       columns: 3
       show_date: true
       show_read_time: false
