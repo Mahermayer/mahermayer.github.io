@@ -8,7 +8,7 @@ design:
   columns: "1"
 
 sections:
-  - block: markdown
+  - block: text   # ✅ instead of markdown
     content:
       title: Professional Experience
       text: |
@@ -29,11 +29,11 @@ sections:
 
         **Major Projects:**  
         - *Smart Cities Security (2023–24):* Proactive & reactive runtime monitoring, intrusion response under cyberattacks.  
-        - *Adversarial Attacks in AVs (2022):* Detection models for adversarial BSM perturbations on DNN maneuver classifiers.  
+        - *Adversarial Attacks in AVs (2022):* Detection models for adversarial Basic Safety Message (BSM) in AV.  
 
         **Teaching Assistant Duties (VCU):**  
         - **EGRE 364: Microcomputer Systems** – Labs on microcontrollers, USART comms, stepper motors, line-following robots.  
-        - **EGRE 337: Statistical Information Processing** – Probability distributions & statistical modeling → foundation for ML.  
+        - **EGRE 337: Statistical Information Processing** – Probability distributions & statistical modeling.  
         - **EGRE 245: Advanced Engineering Programming** – Advanced C: pointers, structures, linked lists, stacks, binary search.  
         - **EGRE 354: Digital Logic Design** – FPGA/digital design labs with Vivado.  
         - **EGRE 454: Automatic Controls** – Graded assignments on stability & pole-zero analysis.  
