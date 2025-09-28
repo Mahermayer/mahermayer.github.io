@@ -15,7 +15,8 @@ sections:
         folders:
           - awards
     design:
-      view: list  # 👈 ensures sequential vertical listing
+      view: list
+      columns: 1
       show_date: true
       show_read_time: false
       show_read_more: false
