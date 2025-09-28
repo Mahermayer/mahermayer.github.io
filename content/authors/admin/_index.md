@@ -99,13 +99,13 @@ skills:
       - name: Markov Decision process, Reinforcement Learning, PID, MPC & Control
         #percent: 60
 
-languages:
-  - name: English
-    percent: 100
-  - name: Bengali
-    percent: 100
-  - name: Hindi/Urdu
-    percent: 70
+#languages:
+  #- name: English
+   # percent: 100
+  #- name: Bengali
+   # percent: 100
+  #- name: Hindi/Urdu
+   # percent: 70
 
 awards:
   - title: Diamond Badge (97th Percentile) – NCL Spring 2025 Individual CTF
@@ -131,8 +131,16 @@ awards:
     image: uploads/SmartComp_2024.pdf
     summary: |
       Poster: *OpenCyberCity Testbed's Recent Progress in Smart City Management*.  
-      Awarded Best Poster at IEEE SmartComp 2024.  
-
+      Awarded Best Poster at IEEE SmartComp 2024.
+    
+  - title: Course Completion – Stateflow Onramp
+    date: '2024-01-20'
+    awarder: MathWorks
+    icon: hero/book-open
+    image: uploads/Stateflow_Onramp.pdf
+    summary: |
+      Completed training on Stateflow modeling for control and CPS modeling.
+    
   - title: IEEE/IFIP Student Travel Grant
     date: '2022-04-25'
     awarder: IEEE ComSoc
@@ -149,13 +157,7 @@ awards:
     summary: |
       Recognized for peer-review contributions to the *Computer Networks* journal.  
 
-  - title: Course Completion – Stateflow Onramp
-    date: '2024-01-20'
-    awarder: MathWorks
-    icon: hero/book-open
-    image: uploads/Stateflow_Onramp.pdf
-    summary: |
-      Completed training on Stateflow modeling for control and CPS.  
+
 
 
 ---
