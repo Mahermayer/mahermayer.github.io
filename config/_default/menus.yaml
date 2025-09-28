@@ -13,7 +13,7 @@ main:
     weight: 20
 
   - name: Papers
-    url: /#papers
+    url: papers/
     weight: 30
 
   - name: Project
@@ -29,5 +29,5 @@ main:
     weight: 70
 
   - name: News
-    url: /#news
+    url: news/
     weight: 13
