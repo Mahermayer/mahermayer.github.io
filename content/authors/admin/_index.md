@@ -48,7 +48,7 @@ education:
       Specialized in cyber-physical systems, system modeling, and network security.  
 
 work:
-  - position: Graduate Researcher
+  - position: Graduate Research Assistant
     company_name: West Virginia University
     company_url: https://www.wvu.edu
     date_start: 2024-08-01
@@ -76,7 +76,7 @@ skills:
 
   - name: Autonomous Systems
     items:
-      - name: ROS for AVs & Robotics      
+      - name: ROS for AV & Robotics      
       - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
       - name: Object Detection & Segmentation (YOLO, UNet, ViT)
       - name: Multi-Sensor Fusion (Camera & LiDAR)
