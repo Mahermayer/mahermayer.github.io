@@ -20,17 +20,17 @@ sections:
         size: medium
         shape: circle
     
-- block: markdown
-  content:
-    title: Research Interests
-    text: |-
-      - Autonomous Vehicles  
-      - Adversarial AI  
-      - Cybersecurity 
-      - Cyber-Physical Systems
-      - AI Safety & Ethics  
-  design:
-    columns: 1
+  - block: markdown
+    content:
+      title: Research Interests
+      text: |-
+        - Autonomous Vehicles  
+        - Adversarial AI  
+        - Cybersecurity 
+        - Cyber-Physical Systems
+        - AI Safety & Ethics  
+    design:
+      columns: 1
     
   - block: resume-experience
     content:
