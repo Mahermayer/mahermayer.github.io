@@ -83,21 +83,33 @@ work:
       - Published multiple peer-reviewed papers on adversarial AI, smart IoT systems, and game-theoretic cybersecurity.  
 
 skills:
-  - name: Technical Skills
+  - name: AI & Machine Learning
     items:
-      - name: Python, MATLAB, ROS, PyTorch
-       # percent: 95
-        #icon: code-bracket
+      - name: Adversarial AI & Robust ML
+      - name: Reinforcement Learning (Q-Learning, DQN, MDPs)
+      - name: Deep Learning for Perception (CNN, RNN, LSTM)
+      - name: Bayesian & Predictive Modeling (Time-series, BSM anomaly detection)
 
-        #icon: chart-bar
-      - name: Adversarial AI & Cybersecurity
-        #percent: 100
-        #icon: shield-check
-      - name: Object Detection & Image Segmentation
-        #percent: 80
-        #icon: eye
-      - name: Markov Decision process, Reinforcement Learning, PID, MPC & Control
-        #percent: 60
+  - name: Autonomous Systems
+    items:
+      - name: ROS for AV & Robotics
+      - name: Lane Following & Control (PID, MPC, FSM)
+      - name: Object Detection & Segmentation (YOLO, UNet)
+      - name: Sensor Fusion & CPS Modeling
+
+  - name: Cybersecurity
+    items:
+      - name: Cyber-Physical System Security
+      - name: Network Attacks (DoS, MiTM, ARP/DNS spoofing)
+      - name: Game-Theoretic Security (DDoS Mitigation)
+      - name: Network Monitoring & Forensics (Scapy, Wireshark)
+
+  - name: Tools & Programming
+    items:
+      - name: Python, MATLAB, C, ROS, PyTorch
+      - name: Simulink & Stateflow (CPS modeling)
+      - name: TCP/UDP, MQTT, Raspberry Pi & IoT Systems
+      - name: Git, Docker, Linux Networking
 
 #languages:
   #- name: English
