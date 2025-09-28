@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: citation
+view: compact
 
 # Import from BibTeX
 bibtex: publications.bib
