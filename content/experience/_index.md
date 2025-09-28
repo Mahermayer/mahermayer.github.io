@@ -8,7 +8,7 @@ design:
   columns: "1"
 
 sections:
-  - block: text   # ✅ instead of markdown
+  - block: prose   # ✅ instead of markdown
     content:
       title: Professional Experience
       text: |
