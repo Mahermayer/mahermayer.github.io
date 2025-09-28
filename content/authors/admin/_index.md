@@ -28,8 +28,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:maherislam071@gmail.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/NoobSaipot
+  #- icon: brands/github
+    #url: https://github.com/NoobSaipot
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/maher-al-islam
   - icon: academicons/google-scholar
