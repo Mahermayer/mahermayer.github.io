@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: Experience
-    url: experience/
+    url: professional_exp/
     weight: 20
 
   - name: Papers
