@@ -23,7 +23,7 @@ sections:
   - block: resume-skills
     content:
       title: Research Interests
-      username: admin
+      #username: admin
       skills:
         - name: Research Areas
           items:
