@@ -3,9 +3,9 @@ title: "Professional Experience"
 type: landing
 
 design:
-  spacing: '1.5rem'
+  spacing: '1.5rem' 
+  full_width: true   # ✅ expand text across page
   columns: "1"
-  css_class: "wide-page"
 
 sections:
   - block: markdown
