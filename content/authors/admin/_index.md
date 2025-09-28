@@ -28,19 +28,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:maherislam071@gmail.com'
     label: E-mail Me
-  #- icon: brands/github
-    #url: https://github.com/NoobSaipot
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/maher-al-islam
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=5Hb5vhEAAAAJ](https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
-  #- icon: academicons/orcid
-   # url: https://orcid.org/0000-0002-8893-7153
+    url: https://scholar.google.com/citations?user=qKqRgoYAAAAJ&hl=en
 
 interests:
   - Autonomous Vehicles
   - Adversarial AI
-  - Cybersecurity for CPS
+  - Cybersecurity for Cyber-Physical Systems
   - AI Safety & Ethics
 
 education:
@@ -48,19 +44,14 @@ education:
     institution: West Virginia University
     date_start: 2024-08-01
     summary: |
-      Research focus: AI safety and adversarial robustness in autonomous vehicles and cyber-physical systems.  
-  - area: "MS in Electrical & Computer Engineering (4.0/4.0)"
+      Research focus on AI safety, adversarial robustness, and resilient autonomy in autonomous vehicles and cyber-physical systems.  
+
+  - area: MS in Electrical & Computer Engineering (4.0/4.0 GPA)
     institution: Virginia Commonwealth University
     date_start: 2021-01-20
     date_end: 2024-07-31
     summary: | 
-      Specialized in cyber-physical systems, system modelling, and network security.  
-  #- area: BS in Electrical & Electronics Engineering
-   # institution: University of Dhaka
-    #date_start: 2014-01-01
-    #date_end: 2018-12-31
-    #summary: |
-     # Minored in Mathematics. Active in robotics and AI research groups.
+      Specialized in cyber-physical systems, system modeling, and network security.  
 
 work:
   - position: Graduate Researcher
@@ -68,8 +59,10 @@ work:
     company_url: https://www.wvu.edu
     date_start: 2024-08-01
     summary: |
-      - Developing resilient AI models for real-world deployment in autonomous vehicles.  
       - Conducting research on adversarial AI, trustworthy autonomy, and CPS security.  
+      - Developing resilient AI models for real-world deployment in autonomous vehicles.  
+      - Supporting DARPA-funded projects on robust robotic perception and cybersecurity (Duckietown platform).  
+
   - position: Graduate Research Assistant
     company_name: Virginia Commonwealth University
     company_url: https://www.vcu.edu
@@ -77,38 +70,41 @@ work:
     date_end: 2024-07-31
     summary: |
       - Led research in AI-driven security for smart cities and CPS testbeds (OpenCyberCity).  
-      - Published multiple peer-reviewed papers on CPS modeling and control, smart IoT systems, and game-theoretic cybersecurity.  
+      - Published peer-reviewed papers on adversarial AI, CPS modeling, smart IoT systems, and game-theoretic cybersecurity.  
 
 skills:
   - name: AI & Machine Learning
     items:
       - name: Adversarial AI & Robust ML
       - name: Reinforcement Learning (Q-Learning, DQN, MDPs)
-      - name: Deep Learning for Perception (CNN, RNN, LSTM)
-      - name: Bayesian & Predictive Modeling (Time-series, BSM anomaly detection)
+      - name: Deep Learning for Perception (CNN, RNN, LSTM, ViT)
+      - name: Bayesian & Predictive Modeling (time-series, anomaly detection)
 
   - name: Autonomous Systems
     items:
-      - name: ROS for AV & Robotics      
+      - name: ROS for AVs & Robotics      
       - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
       - name: Object Detection & Segmentation (YOLO, UNet, ViT)
-      - name: Sensor Fusion (Camera & LiDAR)
-      - name: System Modeling (Smart Home & Smart Water Distribution) 
+      - name: Multi-Sensor Fusion (Camera & LiDAR)
+      - name: CPS Modeling (Smart Home & Smart Water Distribution) 
 
   - name: Cybersecurity
     items:
       - name: Cyber-Physical System Security
-      - name: Network Attacks (DoS, MiTM, ARP/DNS spoofing)
+      - name: Adversarial Attacks & Defenses
+      - name: Network Security (DoS, MiTM, ARP/DNS spoofing)
       - name: Game-Theoretic Security (DDoS Mitigation)
-      - name: Network Monitoring & Forensics (Scapy, Wireshark)
+      - name: Network Forensics & Monitoring (Scapy, Wireshark)
 
   - name: Tools & Programming
     items:
-      - name: Python, MATLAB, C, ROS, PyTorch, TensorFlow
+      - name: Python, MATLAB, C/C++, ROS, PyTorch, TensorFlow
       - name: Simulink & Stateflow (CPS modeling)
-      - name: TCP/UDP, MQTT, Raspberry Pi, Nvidia AGX, & IoT Systems
+      - name: TCP/UDP, MQTT, Raspberry Pi, Nvidia AGX, IoT Systems
       - name: Git, Docker, Linux Networking
 
 ---
 
-I am Maher, a PhD researcher at West Virginia University specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems. My research has been published in leading IEEE venues and recognized with best poster awards, international travel grants, and national-level competitions. I have also earned top ranks in cybersecurity Capture the Flag challenges, and remain focused on advancing AI theory into secure, reliable deployment for real-world systems.
+I am Maher, a PhD researcher at West Virginia University specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems.  
+My work has been published in leading IEEE venues and recognized with a Best Poster Award, international travel grants, and national-level competition honors.  
+I have also ranked highly in cybersecurity Capture the Flag challenges, and remain committed to advancing AI theory into secure, reliable deployment for real-world intelligent systems.
