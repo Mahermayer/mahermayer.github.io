@@ -19,7 +19,7 @@ sections:
       avatar:
         size: medium
         shape: circle
-  - block: about
+  - block: markdown
     content:
       title: Research Interests
       username: admin
