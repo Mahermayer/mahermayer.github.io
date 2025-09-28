@@ -9,5 +9,5 @@ image:
   caption: "OpenCyberCity Testbeds"
   focal_point: Center
   preview_only: false
-  filename: "/uploads/testbed.jpg"
+  filename: "static/uploads/testbed.jpg"
 ---
