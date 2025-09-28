@@ -91,7 +91,7 @@ skills:
     items:
       - name: ROS for AV & Robotics      
       - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
-      - name: Object Detection & Segmentation (YOLO, UNet)
+      - name: Object Detection & Segmentation (YOLO, UNet, ViT)
       - name: Sensor Fusion (Camera & LiDAR)
       - name: System Modeling (Smart Home & Smart Water Distribution) 
 
