@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'Welcome!'
+        about: 'Welcome!🚗🤖🔒'
         education: ''
         interests: 'Research Interests'
         work: 'Experience'
