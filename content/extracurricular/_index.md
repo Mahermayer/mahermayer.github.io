@@ -8,14 +8,6 @@ design:
   columns: "1"
 
 sections:
-  - block: hero
-    content:
-      title: "Maher Al Islam"
-      text: "PhD Researcher in AI & Cybersecurity at West Virginia University"
-      image: /uploads/Nature.jpg
-      imageStyle: "cover"
-      overlay: true
-      overlayStyle: "dark"
   - block: markdown
     content:
       title: Extracurricular Activities
@@ -38,11 +30,23 @@ sections:
           ![Bangladeshi Night VCU ](/uploads/BCAGS.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298) 
 
+        #### Music
+        #- Enthusiast of rock, alternative rock, and 90’s pop.  
+        #- Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)** - blending classic influences with modern sounds.  
+        #- Sometimes I jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
         ### Music
-        - Enthusiast of rock, alternative rock, and 90’s pop.  
-        - Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)** - blending classic influences with modern sounds.  
-        - Sometimes I jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
-
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <div style="flex: 1;">
+            <ul>
+              <li>Enthusiast of rock, alternative rock, and 90’s pop.</li>
+              <li>Band Member, <a href="https://www.youtube.com/@inslatemusic"><b>Inslate</b></a> - blending classic influences with modern sounds.</li>
+              <li>Sometimes I jam and upload on <a href="https://www.youtube.com/@maheralislam5607"><b>Youtube</b></a>.</li>
+            </ul>
+          </div>
+          <div style="flex: 1; text-align: center;">
+            <img src="/uploads/Nature.png" alt="Playing guitar" style="max-width:100%; border-radius:10px;">
+          </div>
+        </div>
     design:
       width: wide
       columns: "1"
