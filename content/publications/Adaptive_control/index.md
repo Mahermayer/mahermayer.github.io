@@ -5,7 +5,7 @@ draft: false   # <-- must be false to show on live site
 publishDate: 2021-01-01
 authors:
   - "Mostafa Zaman"
-  - "Maher Al Islam"
+  - "**Maher Al Islam**"
   - "Ashraf Tantawy"
   - "Carol J Fung"
   - "Sherif Abdelwahed"
