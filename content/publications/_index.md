@@ -15,6 +15,7 @@ sections:
       filters:
         folders:
           - publications
+        count: 50
     design:
       view: citation
       fill_image: false
