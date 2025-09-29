@@ -14,6 +14,7 @@ sections:
       filters:
         folders:
           - awards
+        count: 50
     design:
       view: article-grid
       columns: 3
