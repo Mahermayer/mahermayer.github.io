@@ -9,7 +9,7 @@ authors:
   - "Ashraf Tantawy"
   - "Carol J Fung"
   - "Sherif Abdelwahed"
-publication_types: ["1"]  # 1 = Conference paper
+publication_types: ["Conference"]  # 1 = Conference paper
 abstract: "This paper presents an adaptive control framework for smart water distribution systems, integrating IoT and process control mechanisms to improve efficiency and resilience."
 featured: false
 publication: "*2021 IEEE International Smart Cities Conference (ISC2)*"
