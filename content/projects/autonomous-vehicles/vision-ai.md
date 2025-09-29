@@ -10,9 +10,11 @@ tags:
   - UNet
   - ViT
 featured: true
+type: project
 ---
 
 This project implements **vision-based lane following and control** pipelines for autonomous driving.  
+
 I integrated **YOLO, UNet, and Vision Transformers (ViT)** for real-time perception tasks such as lane detection, object recognition, and traffic sign handling.  
 
 On the control side, I deployed **PID and MPC controllers** in ROS to ensure smooth navigation.  
