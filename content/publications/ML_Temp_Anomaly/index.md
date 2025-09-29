@@ -15,8 +15,19 @@ abstract: ''
 featured: false
 publication: '*2024 IEEE International Conference on Smart Computing (SMARTCOMP)*'
 tags:
-- Temperature sensors;Temperature measurement;Smart buildings;PI control;Fluctuations;Temperature
-  control;PD control;Smart Building;Anomaly Detection;Machine Learning;PID Controller;Random
-  Forest Classifier;FDI
+  - Temperature sensors
+  - Temperature measurement
+  - Smart buildings
+  - PI control
+  - Fluctuations
+  - Temperature control
+  - PD control
+  - Smart Building
+  - Anomaly Detection
+  - Machine Learning
+  - PID Controller
+  - Random Forest Classifier
+  - FDI
 doi: 10.1109/SMARTCOMP61445.2024.00070
+url_pdf: "https://ieeexplore.ieee.org/document/10556679"   # <-- ADD THIS
 ---
