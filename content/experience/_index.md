@@ -12,7 +12,7 @@ sections:
     content:
       title: Professional Experience
       text: |
-        This section summarizes my academic, research, and teaching experience, highlighting my work in AI, cybersecurity, cyber-physical systems, and autonomous vehicles.
+        This section summarizes my academic, research, and teaching experience, highlighting my work in autonomous vehicles (AV), AI, cybersecurity and cyber-physical systems.
 
         ### Graduate Research Assistant  
         **West Virginia University** (Aug 2024 – Present)  
