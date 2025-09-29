@@ -76,7 +76,7 @@ skills:
     items:
       - name: Adversarial AI (FGSM, PGD, UAP, CW, DeepFool, ZOO)
       - name: Reinforcement Learning (Q-Learning, DQN, MDP)
-      - name: Deep Learning (CNN, RNN, LSTM, ViT)
+      - name: Deep Learning (CNN, RNN, LSTM, SE, DWConv)
       - name: Bayesian & Predictive Modeling (Time-series, Anomaly Detection)
 
   - name: Autonomous Systems
