@@ -10,7 +10,7 @@ authors:
 - Nasibeh Zohrabi
 - Sherif Abdelwahed
 publication_types:
-- '1'
+- 'conference'
 abstract: ''
 featured: false
 publication: '*2024 IEEE International Conference on Smart Computing (SMARTCOMP)*'
