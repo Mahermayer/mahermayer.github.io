@@ -8,16 +8,18 @@ sections:
     content:
       title: Graduate Coursework
       text: |-
-        - Game Theory and Security (VCU)  
-        - Intelligent Linear Systems (VCU)  
+        
+        - Machine Learning (VCU)           
         - Neural Nets and Deep Learning (VCU)  
+        - Neural Networks (WVU) 
         - Computer Networks & Communication (VCU)  
-        - Cyber-Physical Systems (VCU)  
+        - Advanced Computer Networking (WVU)
         - Network & System Security (VCU)  
-        - Machine Learning (VCU)  
+        - Cyber-Physical Systems (VCU)  
         - Internet of Things (VCU)  
-        - Neural Networks (WVU)  
-        - Advanced Computer Networking (WVU)  
+        - Game Theory and Security (VCU)
+        - Intelligent Linear Systems (VCU)
+    
     design:
       columns: '2'
 ---
