@@ -12,24 +12,24 @@ sections:
     content:
       title: Extracurricular Activities
       text: |
-        Beyond research, I actively engage in community, leadership, and outreach activities that complement my academic journey.
+        Beyond research and teaching, I pursue creative and community-driven activities that reflect my broader interests.
+
+        ### Music
+        - **Guitarist & Songwriter:** Passionate about rock, alternative rock, and 90’s pop.  
+        - Contributor to **[Inslate Music](https://www.youtube.com/@inslatemusic)** — blending classic influences with modern sounds.  
+        - Regularly record and perform original and collaborative works.  
 
         ### Leadership & Mentorship
-        - **Cybersecurity Club Mentor (2023–present):** Guided students in Capture-the-Flag (CTF) competitions, introducing adversarial AI challenges and AV security scenarios.  
-        - **Graduate Student Mentor:** Advised junior students on research methods, publications, and navigating graduate studies.  
+        - **Cybersecurity Club Mentor (2023–present):** Guided students in Capture-the-Flag (CTF) competitions, including adversarial AI and AV security challenges.  
+        - **Graduate Student Mentor:** Supporting junior researchers in navigating publications and technical projects.  
 
-        ### Outreach & Service
-        - **STEM Outreach Volunteer:** Conducted robotics and AI workshops for high school students to promote interest in autonomous systems and cybersecurity.  
-        - **Conference Involvement:** Presented posters and engaged in discussions at IEEE SmartComp 2024 (Best Poster Award).  
+        ### Outreach & Community
+        - **STEM Workshops:** Delivered robotics and AI sessions for high school students to spark interest in CPS and AV security.  
+        - **Open Knowledge Sharing:** Active on LinkedIn, breaking down state-of-the-art papers on adversarial AI and AV resilience for wider audiences.  
 
         ### Competitions
-        - **Capture the Flag (CTF):** Active participant in beginner-to-intermediate cybersecurity competitions, focusing on reverse engineering, password cracking, and AV-related security challenges.  
-        - **Duckietown Robotics Challenges:** Hands-on experimentation with reinforcement learning, lane-following, and resilient AV autonomy.  
-
-        ### Community Engagement
-        - **LinkedIn Knowledge Sharing:** Summarize and explain state-of-the-art papers on adversarial AI and AVs in short, accessible formats for broader academic and professional communities.  
-        - **Open-Source Contributions:** Maintaining and extending repositories for AV resilience and Duckietown integration.  
-
+        - **CTF Participation:** Engaged in cybersecurity challenges (reverse engineering, password cracking, AV-related scenarios).  
+        - **Duckietown Robotics Challenges:** Applied reinforcement learning and robust autonomy methods in hands-on AV systems.  
     design:
       width: wide
       columns: "1"
