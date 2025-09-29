@@ -38,8 +38,8 @@ sections:
       title: Skills
       username: admin
     design:
-      view: card
-      columns: 2
+      view: list
+      columns: 3
       css_class: no-top-margin
 
   - block: markdown
