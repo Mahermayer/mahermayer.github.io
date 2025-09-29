@@ -77,30 +77,48 @@ skills:
       - name: Adversarial AI & Robust ML
       - name: Reinforcement Learning (Q-Learning, DQN, MDPs)
       - name: Deep Learning for Perception (CNN, RNN, LSTM, ViT)
-      - name: Bayesian & Predictive Modeling (time-series, anomaly detection)
+      - name: Bayesian & Predictive Modeling (Time-series, Anomaly Detection)
 
-  - name: Autonomous Systems 
+  - name: Autonomous Systems
     items:
-      - name: ROS for AV & Robotics      
+      - name: Autonomous Vehicles & Robotics (ROS, Duckietown, CARLA)
       - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
       - name: Object Detection & Segmentation (YOLO, UNet, ViT)
-      - name: Multi-Sensor Fusion (Camera & LiDAR)
-      - name: CPS Modeling (Smart Home & Smart Water Distribution) 
+      - name: Multi-Sensor Fusion (Camera, LiDAR)
+      - name: CPS Modeling (Smart Home, Smart Water Distribution)
 
   - name: Cybersecurity
     items:
       - name: Cyber-Physical System Security
       - name: Adversarial Attacks & Defenses
-      - name: Network Security (DoS, MiTM, ARP/DNS spoofing)
+      - name: Network Security (DoS, MiTM, ARP/DNS Spoofing)
       - name: Game-Theoretic Security (DDoS Mitigation)
       - name: Network Forensics & Monitoring (Scapy, Wireshark)
 
-  - name: Tools & Programming
+  - name: Programming Languages
     items:
-      - name: Python, MATLAB, C/C++, ROS, PyTorch, TensorFlow
-      - name: Simulink & Stateflow (CPS modeling)
-      - name: TCP/UDP, MQTT, Raspberry Pi, Nvidia AGX, IoT Systems
-      - name: Git, Docker, Linux Networking
+      - name: Python
+      - name: C
+      - name: MATLAB/Simulink
+      - name: ROS
+      - name: Bash/Linux
+
+  - name: Frameworks & Libraries
+    items:
+      - name: PyTorch
+      - name: TensorFlow
+      - name: OpenCV
+      - name: Scikit-learn
+      - name: Docker
+      - name: Git
+
+  - name: Hardware & Embedded Systems
+    items:
+      - name: NVIDIA Jetson AGX Xavier
+      - name: Raspberry Pi
+      - name: Intel CPUs & Edge Devices
+      - name: ZED Stereo Camera
+      - name: IoT Systems (MQTT, TCP/UDP)
 
 ---
 
