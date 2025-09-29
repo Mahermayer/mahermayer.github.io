@@ -35,7 +35,7 @@ sections:
 
   - block: markdown
     content:
-      title: Skills
+      title: Skills    
       username: admin
     design:
       view: list
