@@ -44,7 +44,7 @@ sections:
             </ul>
           </div>
           <div style="flex: 1; text-align: center;">
-            <img src="/uploads/Nature.png" alt="Playing guitar" style="max-width:100%; border-radius:10px;">
+            <img src="/uploads/Nature.jpg" alt="Playing guitar" style="max-width:100%; border-radius:10px;">
           </div>
         </div>
     design:
