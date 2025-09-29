@@ -8,6 +8,14 @@ design:
   columns: "1"
 
 sections:
+  - block: hero
+    content:
+      title: "Maher Al Islam"
+      text: "PhD Researcher in AI & Cybersecurity at West Virginia University"
+      image: /uploads/Nature.jpg
+      imageStyle: "cover"
+      overlay: true
+      overlayStyle: "dark"
   - block: markdown
     content:
       title: Extracurricular Activities
