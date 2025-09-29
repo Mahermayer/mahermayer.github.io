@@ -136,4 +136,4 @@ skills:
       show_read_more: false
 ---
 
-I am Maher, PhD researcher at West Virginia University, specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems. My work has been published in leading IEEE venues and recognized with a Best Poster Awards, international travel grants, and national-level competition honors. I have also ranked highly in cybersecurity Capture the Flag challenges, and remain committed to advancing AI theory into secure, reliable deployment for real-world intelligent systems.
+I am Maher, PhD researcher at West Virginia University, specializing in adversarial robustness, context-aware AI, and cybersecurity for autonomous vehicles and cyber-physical systems. My work has been published in leading IEEE venues and recognized with Poster Awards, international travel grants, and national-level competition honors. I have also ranked highly in cybersecurity Capture the Flag challenges, and remain committed to advancing AI theory into secure, reliable deployment for real-world intelligent systems.
