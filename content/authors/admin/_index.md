@@ -109,7 +109,7 @@ skills:
       - name: OpenCV
       - name: Scikit-learn
       - name: Docker
-      - name: Git (This site is hosted on Git!)
+      - name: Git (🟠 This site is hosted on Github!)
 
   - name: Hardware & Embedded Systems
     items:
