@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Vehicles"
-summary: "Vision AI-based driving, context-aware autonomy, and adversarial robustness for resilient AV systems."
+summary: "Vision AI-based autonomous driving, context-aware autonomy, and adversarial robustness for resilient AV systems."
 type: landing
 
 sections:
