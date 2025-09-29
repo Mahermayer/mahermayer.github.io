@@ -15,10 +15,10 @@ sections:
         Click a category to explore projects.
       filters:
         folders:
-          - projects/autonomous-vehicles
-          - projects/cybersecurity
-          - projects/smart-cities-cps
-          - projects/anomaly-detection
+          - projects#/autonomous-vehicles
+          #- projects#/cybersecurity
+          #- projects/smart-cities-cps
+          #- projects/anomaly-detection
       count: 50
     design:
       view: article-grid
