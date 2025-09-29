@@ -39,7 +39,25 @@ sections:
       view: list
       columns: 3
       css_class: no-top-margin
-
+    
+  - block: collection
+    content:
+      title: Selected Publications
+      text: >
+        A few of my recent and representative research works.  
+        [View full list →](/publications/)
+      filters:
+        folders:
+          - publications
+      count: 3   # show 3 here; set to 50 or remove to show all
+    design:
+      view: citation
+      fill_image: false
+      columns: 1
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+    
   - block: markdown
     content:
       title: Awards
