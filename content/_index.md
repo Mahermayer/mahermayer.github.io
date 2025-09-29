@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Welcome!'
+title: ''
 date: 2022-10-24
 type: landing
 
@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'Welcome!'
         education: ''
         interests: 'Research Interests'
         work: 'Experience'
