@@ -28,6 +28,8 @@ tags:
   - PID Controller
   - Random Forest Classifier
   - FDI
-doi: 10.1109/SMARTCOMP61445.2024.00070
-url_pdf: "https://ieeexplore.ieee.org/document/10556679"   # <-- ADD THIS
+ hugoblox:
+  ids:
+    doi: 10.1109/SMARTCOMP61445.2024.00070
+url_pdf: "https://ieeexplore.ieee.org/document/10556679"  
 ---
