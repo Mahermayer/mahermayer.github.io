@@ -17,7 +17,10 @@ sections:
         Click a project to learn more.
       filters:
         folders:
-          - projects
+          - projects/autonomous-vehicles
+          - projects/cybersecurity
+          - projects/smart-cities-cps
+          - projects/anomaly-detection
       count: 50
     design:
       view: article-grid
