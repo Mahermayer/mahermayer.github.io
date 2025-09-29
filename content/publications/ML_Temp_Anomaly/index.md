@@ -31,5 +31,5 @@ tags:
 hugoblox:
  ids:
   doi: 10.1109/SMARTCOMP61445.2024.00070
-url_pdf: "https://ieeexplore.ieee.org/document/10556679"  
+url_pdf: "https://ieeexplore.ieee.org/document/10595593"  
 ---
