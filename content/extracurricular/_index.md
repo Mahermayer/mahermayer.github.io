@@ -20,7 +20,7 @@ sections:
         - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022)** 
 
         ### Cultural Event Organization
-        - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event securing **$2300 in funding from SGA**. Featured live music, dance, and performances that strengthened international student ties.  
+        - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event securing **SGA fund of $2300**. Featured live music, dance, and performances that strengthened international student ties.  
           ![Bangladeshi Night WVU. Flyer Credit: Kamrul Hasan.](/uploads/Bangladeshi Night WVU.png)  
           📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
 
