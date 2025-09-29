@@ -74,9 +74,9 @@ work:
 skills:
   - name: AI & Machine Learning
     items:
-      - name: Adversarial AI & Robust ML
+      - name: Adversarial AI (FGSM, PGD, UAP, CW, DeepFool, ZOO)
       - name: Reinforcement Learning (Q-Learning, DQN, MDP)
-      - name: Deep Learning for Perception (CNN, RNN, LSTM, ViT)
+      - name: Deep Learning (CNN, RNN, LSTM, ViT)
       - name: Bayesian & Predictive Modeling (Time-series, Anomaly Detection)
 
   - name: Autonomous Systems
