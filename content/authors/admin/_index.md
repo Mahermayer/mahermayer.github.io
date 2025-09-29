@@ -92,9 +92,7 @@ skills:
       - name: Network Security (DoS, MiTM, ARP/DNS Spoofing)
       - name: Game-Theoretic Security (DDoS Mitigation)
       - name: Network Forensics & Monitoring (Scapy, Wireshark)
-      - name: Tools (CTF / pentest)
-        items:
-         - name: Nmap, Metasploit, Aircrack-ng, John/Hashcat, Burp, sqlmap, Netcat, Volatility
+      - name: CTF Tools (Nmap, Metasploit, Aircrack-ng, John/Hashcat, Burp, sqlmap, Netcat, Volatility)
 
 
   - name: Programming Languages
