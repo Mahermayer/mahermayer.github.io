@@ -35,7 +35,7 @@ sections:
           <div style="flex: 1;">
             <ul>
               <li>Enthusiast of rock, alternative rock, and 90’s pop.</li>
-              <li>Band Member, <a href="https://www.youtube.com/@inslatemusic"><b>Inslate</b></a> - blending classic influences with modern sounds.</li>
+              <li>Band Member, <a href="https://www.youtube.com/@inslatemusic"><b>Inslate</b></a>.</li>
               <li>Sometimes I jam and upload on <a href="https://www.youtube.com/@maheralislam5607"><b>Youtube</b></a>.</li>
             </ul>
           </div>
