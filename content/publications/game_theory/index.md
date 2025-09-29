@@ -9,7 +9,7 @@ authors:
 - Ashraf Tantawy
 - Sherif Abdelwahed
 publication_types:
-  - "1"
+  - "Conference"
 abstract: ""
 featured: false
 publication: "*NOMS 2022-2022 IEEE/IFIP Network Operations and Management Symposium*"
