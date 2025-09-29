@@ -94,7 +94,6 @@ skills:
       - name: Network Forensics & Monitoring (Scapy, Wireshark)
       - name: CTF Tools: Nmap, Metasploit, aircrack, John/Hashcat, Burp Suite, sqlmap,  Netcat, Volatility
 
-
   - name: Programming Languages
     items:
       - name: Python
