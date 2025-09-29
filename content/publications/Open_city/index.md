@@ -6,12 +6,12 @@ publishDate: 2025-09-28T19:36:06.807178Z
 authors:
   - Nasibeh Zohrabi
   - Patrick J. Martin
-  - xxx
+  - ...
   - "**Maher Al Islam**"
-  - xxx
+  - ...
   - Sherif Abdelwahed
 publication_types:
-  - "1"
+  - "Conference"
 abstract: ""
 featured: false
 publication: "*2021 IEEE International Smart Cities Conference (ISC2)*"
