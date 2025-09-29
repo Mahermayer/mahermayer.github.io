@@ -15,9 +15,9 @@ sections:
         Beyond academics, I actively contribute to leadership, cultural initiatives, and music—fostering community, creativity, and collaboration.
 
         ### Leadership & Student Organizations
-        - **President, Bangladeshi Students Association (BSA), WVU (2024):**   
-        - **Founding President, Bengali Cultural Association of Graduate Students (BCAGS), VCU (2023):** 
-        - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022):** 
+        - **President, Bangladeshi Students Association (BSA), WVU (2024)**   
+        - **Founding President, Bengali Cultural Association of Graduate Students (BCAGS), VCU (2023)** 
+        - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022)** 
 
         ### Cultural Event Organization
         - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event with **150+ guests**, securing **$2300 in funding from SGA**. Featured live music, dance, and performances that strengthened international student ties.  
