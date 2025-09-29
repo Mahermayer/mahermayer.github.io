@@ -72,7 +72,7 @@ work:
       - Published peer-reviewed papers on adversarial AI, CPS modeling, smart IoT systems, and game-theoretic cybersecurity.  
 
 skills:
-  - name: AI & Machine Learning
+  - name: Artificial Intelligence
     items:
       - name: Adversarial AI (FGSM, PGD, UAP, CW, DeepFool, ZOO)
       - name: Reinforcement Learning (Q-Learning, DQN, MDP)
