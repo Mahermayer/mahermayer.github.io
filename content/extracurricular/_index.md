@@ -12,24 +12,28 @@ sections:
     content:
       title: Extracurricular Activities
       text: |
-        Beyond research and teaching, I pursue creative and community-driven activities that reflect my broader interests.
+        Beyond academics, I actively contribute to leadership, cultural initiatives, and music—fostering community, creativity, and collaboration.
+
+        ### Leadership & Student Organizations
+        - **President, Bangladeshi Students Association (BSA), WVU (2024):** Directed cultural and student engagement initiatives, building community through large-scale events and outreach.  
+        - **Founding President, Bengali Cultural Association of Graduate Students (BCAGS), VCU (2023):** Established the first graduate-level Bengali cultural organization at VCU, strengthening cultural identity and collaboration.  
+        - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022):** Coordinated events to enhance graduate student networking and academic-community balance.  
+
+        ### Cultural Event Organization
+        - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event with **150+ guests**, securing **$2300 in funding from SGA**. Featured live music, dance, and performances that strengthened international student ties.  
+          ![Bangladeshi Night WVU](/uploads/Bangladeshi Night WVU.png)  
+          📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
+
+        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with music, dance, and food, attended by **200 participants**.  
+          🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298)  
+          ![Bangladeshi Night VCU](/uploads/BCAGS.jpg)  
 
         ### Music
-        - **Guitarist & Songwriter:** Passionate about rock, alternative rock, and 90’s pop.  
-        - Band Member of **[Inslate](https://www.youtube.com/@inslatemusic)** — blending classic influences with modern sounds.  
-        - Sometimes jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
+        - **Guitarist & Performer:** Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
+        - **Band Member, Inslate:** Contributor to **[Inslate Music](https://www.youtube.com/@inslatemusic)** on YouTube, blending classic influences with modern sounds.  
+        - Enjoy collaborative jams and occasionally upload live sessions and originals online.  
+          ![Music Flyer](/uploads/Event-Flyer-Design.png)  
 
-        ### Leadership & Mentorship
-        - **Cybersecurity Club Mentor (2023–present):** Guided students in Capture-the-Flag (CTF) competitions, including adversarial AI and AV security challenges.  
-        - **Graduate Student Mentor:** Supporting junior researchers in navigating publications and technical projects.  
-
-        ### Outreach & Community
-        - **STEM Workshops:** Delivered robotics and AI sessions for high school students to spark interest in CPS and AV security.  
-        - **Open Knowledge Sharing:** Active on LinkedIn, breaking down state-of-the-art papers on adversarial AI and AV resilience for wider audiences.  
-
-        ### Competitions
-        - **CTF Participation:** Engaged in cybersecurity challenges (reverse engineering, password cracking, AV-related scenarios).  
-        - **Duckietown Robotics Challenges:** Applied reinforcement learning and robust autonomy methods in hands-on AV systems.  
     design:
       width: wide
       columns: "1"
