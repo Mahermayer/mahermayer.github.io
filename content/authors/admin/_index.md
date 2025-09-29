@@ -75,14 +75,14 @@ skills:
   - name: AI & Machine Learning
     items:
       - name: Adversarial AI & Robust ML
-      - name: Reinforcement Learning (Q-Learning, DQN, MDPs)
+      - name: Reinforcement Learning (Q-Learning, DQN, MDP)
       - name: Deep Learning for Perception (CNN, RNN, LSTM, ViT)
       - name: Bayesian & Predictive Modeling (Time-series, Anomaly Detection)
 
   - name: Autonomous Systems
     items:
       - name: Autonomous Vehicles & Robotics (ROS, Duckietown, CARLA)
-      - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
+      - name: Lane Following & Control (PID, MPC, FSM)
       - name: Object Detection & Segmentation (YOLO, UNet, ViT)
       - name: Multi-Sensor Fusion (Camera, LiDAR)
       - name: CPS Modeling (Smart Home, Smart Water Distribution)
@@ -110,7 +110,7 @@ skills:
       - name: OpenCV
       - name: Scikit-learn
       - name: Docker
-      - name: Git
+      - name: Git (This site is hosted on Git!)
 
   - name: Hardware & Embedded Systems
     items:
