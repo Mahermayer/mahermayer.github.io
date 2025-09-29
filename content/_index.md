@@ -22,6 +22,7 @@ sections:
         about: ''
         education: ''
         interests: 'Research Interests'
+        work: 'Experience'
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -31,15 +32,6 @@ sections:
         shape: circle
 
 
-  - block: resume-experience
-    content:
-      title: Education & Experience
-      username: admin
-    design:
-      view: card
-      columns: 2
-      date_format: 'January 2006'
-      is_education_first: true
 
   - block: resume-skills
     content:
