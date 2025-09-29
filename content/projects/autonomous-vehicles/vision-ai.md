@@ -1,5 +1,5 @@
 ---
-title: Vision AI-based Autonomous Driving
+title: "Vision AI-based Autonomous Driving"
 date: 2025-01-01
 summary: Deep learning-driven lane following and perception systems with adversarial robustness.
 tags:
