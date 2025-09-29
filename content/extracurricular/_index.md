@@ -24,7 +24,7 @@ sections:
           ![Bangladeshi Night WVU – Flyer Credit: Kamrul Hasan](/uploads/Bangladeshi Night WVU.png)  
           📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
 
-        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with bengali music, dance, drama, and food, attended by **~200 participants**.  
+        - **Bangladeshi Night – VCU (Nov 2023):** Founded an organization to foster Bengali culture at VCU and arranged a cultural showcase with bengali music, dance, drama, and food, attended by **~200 participants**. 
           ![Bangladeshi Night VCU ](/uploads/BCAGS.jpg)  
           ![Bangladeshi Night VCU – Flyer Credit: Khairuzzaman Arnob](/uploads/flyer_vcu.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298) 
@@ -32,7 +32,7 @@ sections:
      
         ### Music
         - Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
-        - Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)**, blending classic influences with modern sounds.  
+        - Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)** - blending classic influences with modern sounds.  
         - Sometimes I jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
 
 
