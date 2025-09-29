@@ -10,7 +10,7 @@ sections:
       text: Explore different aspects of my AV research.
       filters:
         folders:
-          - projects/autonomous-vehicles
+          - .
       count: 50
     design:
       view: article-grid
