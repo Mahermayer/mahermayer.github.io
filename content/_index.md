@@ -21,7 +21,7 @@ sections:
       headings:
         about: ''
         education: ''
-        #interests: 'Research Interests'
+        interests: 'Research Interests'
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
@@ -30,20 +30,6 @@ sections:
         size: medium
         shape: circle
 
-  - block: resume-skills
-    content:
-      title: Research Interests
-      skills:
-        - name: Research Areas
-          items:
-            - name: Autonomous Vehicles
-            - name: Adversarial AI
-            - name: Cybersecurity
-            - name: Cyber-Physical Systems
-            - name: AI Safety & Ethics
-    design:
-      view: list
-      columns: 3
 
   - block: resume-experience
     content:
