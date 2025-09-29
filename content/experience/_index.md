@@ -13,19 +13,18 @@ sections:
       title: Professional Experience
       text: |
         A summary of my academic, research, and teaching roles.  
-        This section highlights my journey as a researcher, educator, and practitioner in AI, cybersecurity, CPS, and autonomous vehicles.  
+        This section highlights my journey as a researcher in AI, cybersecurity, CPS, and autonomous vehicles.  
 
-        ### Graduate Researcher  
+        ### Graduate Research Assistant  
         **West Virginia University** (Aug 2024 – Present)  
         - Research in adversarial AI, trustworthy autonomy, and CPS security.  
         - Developing resilient AI models for real-world deployment in AVs.  
-        - Supporting DARPA-funded **AI CRAFT (US DoD, DARPA, 2024–26)** – Resilient AI & cybersecurity for robotics (Duckietown).  
-          The work focuses on enhancing robotic perception and multi-agent coordination in adversarial environments, emphasizing vision-based situational awareness (object detection, semantic segmentation, and LiDAR-camera fusion).
+        - Supporting DARPA-funded **AI CRAFT (US DoD, DARPA, 2024–26)** – Resilient AI & cybersecurity for robotics (Duckietown). Advancing perception-control in adversarial environments by leveraging context awareness, with a focus on vision-based object detection, semantic segmentation, and multimodal data fusion.
 
         ### Graduate Research Assistant & Teaching Assistant  
         **Virginia Commonwealth University** (Jan 2021 – Jul 2024)  
         - Led AI-driven security research for smart cities and CPS testbeds (OpenCyberCity).  
-        - Published papers on adversarial AI, smart IoT systems, and game-theoretic cybersecurity.  
+        - Published papers on smart IoT systems, adversary and game-theoretic cybersecurity.  
 
         **Major Projects:**  
         - *Smart Cities Security (2023–24):* Proactive & reactive runtime monitoring, intrusion response under cyberattacks.  
