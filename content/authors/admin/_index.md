@@ -81,7 +81,7 @@ skills:
 
   - name: Autonomous Systems
     items:
-      - name: Autonomous Vehicles & Robotics (ROS, Duckietown, CARLA)
+      - name: Autonomous Vehicles (ROS, Duckietown, CARLA)
       - name: Lane Following & Control (PID, MPC, FSM)
       - name: Vision AI (YOLO, UNet, ViT)
       - name: Multi-Sensor Fusion (Camera, LiDAR)
@@ -92,7 +92,7 @@ skills:
       - name: Network Security (DoS, MiTM, ARP/DNS Spoofing)
       - name: Game-Theoretic Security (DDoS Mitigation)
       - name: Network Forensics & Monitoring (Scapy, Wireshark)
-      - name: Practical CTF / Pentest Tools — Nmap, Metasploit, aircrack, John/Hashcat, Burp Suite, sqlmap,  Netcat, Volatility
+      - name: CTF Tools: Nmap, Metasploit, aircrack, John/Hashcat, Burp Suite, sqlmap,  Netcat, Volatility
 
 
   - name: Programming Languages
