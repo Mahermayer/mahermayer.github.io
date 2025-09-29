@@ -21,11 +21,12 @@ sections:
 
         ### Cultural Event Organization
         - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event securing **SGA fund of $2300**. Featured live music, dance, and performances that strengthened international student ties.  
-          ![Bangladeshi Night WVU – Flyer Credit: Kamrul Hasan.](/uploads/flyer_WVU.png)](/uploads/flyer_WVU.png) 
+          ![Bangladeshi Night WVU](/uploads/flyer_WVU.png)Flyer Credit: Kamrul Hasan.
+     
           📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
 
         - **Bangladeshi Night – VCU (Nov 2023):** Founded an organization to foster Bengali culture at VCU and arranged a cultural showcase with bengali music, dance, drama, and food, attended by **~200 participants**. 
-          ![Bangladeshi Night VCU – Flyer Credit: Khairuzzaman Arnob.](/uploads/flyer_vcu.png)](/uploads/flyer_vcu.png) 
+          ![Bangladeshi Night VCU](/uploads/flyer_vcu.png)Flyer Credit: Khairuzzaman Arnob. 
           ![Bangladeshi Night VCU ](/uploads/BCAGS.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298) 
 
