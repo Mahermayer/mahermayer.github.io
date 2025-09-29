@@ -12,7 +12,6 @@ sections:
       title: Publications
       text: >
         A list of my published research articles, conference papers, and preprints.  
-        (Auto-imported from my BibTeX file.)
       filters:
         folders:
           - publications
