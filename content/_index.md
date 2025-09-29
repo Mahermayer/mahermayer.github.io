@@ -33,7 +33,7 @@ sections:
 
 
 
-  - block: resume-biography-2
+  - block: resume-biography
     content:
       title: Skills
       username: admin
