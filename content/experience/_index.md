@@ -18,7 +18,7 @@ sections:
         **West Virginia University** (Aug 2024 – Present)  
         - Research in adversarial AI, trustworthy autonomy, and CPS security.  
         - Developing resilient AI models for real-world deployment in AVs.  
-        - Supporting DARPA-funded **AI CRAFT (US DoD, DARPA, 2024–26)** – Resilient AI & cybersecurity for robotics (Duckietown). Advancing perception-control in adversarial environments by leveraging context awareness, with a focus on vision-based object detection, semantic segmentation, and multimodal data fusion.
+        - Contributing to DARPA’s AI CRAFT (2024–26) on resilient AI and cybersecurity for robotics, advancing perception–control through context-aware object detection, segmentation, and multimodal fusion.
 
         ### Graduate Research Assistant & Teaching Assistant  
         **Virginia Commonwealth University** (Jan 2021 – Jul 2024)  
