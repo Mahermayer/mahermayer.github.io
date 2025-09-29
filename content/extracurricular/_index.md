@@ -24,7 +24,7 @@ sections:
           ![Bangladeshi Night WVU. Flyer Credit: Kamrul Hasan.](/uploads/Bangladeshi Night WVU.png)  
           📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
 
-        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with music, dance, and food, attended by **~200 participants**.  
+        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with bengali music, dance, drama, and food, attended by **~200 participants**.  
           ![Bangladeshi Night VCU](/uploads/BCAGS.jpg)  
           ![Event Flyer credit: Khairuzzaman Arnob.](/uploads/flyer_vcu.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298)  
