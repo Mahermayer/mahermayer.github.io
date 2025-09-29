@@ -30,7 +30,7 @@ sections:
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298) 
 
         ### Music
-        - Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
+        - Enthusiast of rock, alternative rock, and 90’s pop.  
         - Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)** - blending classic influences with modern sounds.  
         - Sometimes I jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
 
