@@ -16,8 +16,8 @@ sections:
 
         ### Music
         - **Guitarist & Songwriter:** Passionate about rock, alternative rock, and 90’s pop.  
-        - Contributor to **[Inslate Music](https://www.youtube.com/@inslatemusic)** — blending classic influences with modern sounds.  
-        - Regularly record and perform original and collaborative works.  
+        - Band Member of **[Inslate](https://www.youtube.com/@inslatemusic)** — blending classic influences with modern sounds.  
+        - Sometimes jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
 
         ### Leadership & Mentorship
         - **Cybersecurity Club Mentor (2023–present):** Guided students in Capture-the-Flag (CTF) competitions, including adversarial AI and AV security challenges.  
