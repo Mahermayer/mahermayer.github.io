@@ -1,6 +1,5 @@
 ---
 title: "Awards & Certifications"
-#date: '2021-12-31'
 type: landing
 
 design:
@@ -14,7 +13,7 @@ sections:
       filters:
         folders:
           - awards
-        count: 50
+      count: 50   # <-- also here, outside filters
     design:
       view: article-grid
       columns: 3
