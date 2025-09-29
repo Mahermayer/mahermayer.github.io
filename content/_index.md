@@ -31,9 +31,7 @@ sections:
         size: medium
         shape: circle
 
-
-
-  - block: markdown
+  - block: resume-skills
     content:
       title: Skills    
       username: admin
