@@ -15,18 +15,18 @@ sections:
         Beyond academics, I actively contribute to leadership, cultural initiatives, and music—fostering community, creativity, and collaboration.
 
         ### Leadership & Student Organizations
-        - **President, Bangladeshi Students Association (BSA), WVU (2024):** Directed cultural and student engagement initiatives, building community through large-scale events and outreach.  
-        - **Founding President, Bengali Cultural Association of Graduate Students (BCAGS), VCU (2023):** Established the first graduate-level Bengali cultural organization at VCU, strengthening cultural identity and collaboration.  
-        - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022):** Coordinated events to enhance graduate student networking and academic-community balance.  
+        - **President, Bangladeshi Students Association (BSA), WVU (2024):**   
+        - **Founding President, Bengali Cultural Association of Graduate Students (BCAGS), VCU (2023):** 
+        - **Event Coordinator, Engineering Graduate Student Association (EGSA), VCU (2021–2022):** 
 
         ### Cultural Event Organization
         - **Bangladeshi Night – WVU (Nov 2024):** Coordinated a flagship cultural event with **150+ guests**, securing **$2300 in funding from SGA**. Featured live music, dance, and performances that strengthened international student ties.  
-          ![Bangladeshi Night WVU](/uploads/Bangladeshi Night WVU.png)  
+          ![Bangladeshi Night WVU. Flyer Credit: Kamrul Hasan.](/uploads/Bangladeshi Night WVU.png)  
           📸 [Event on Instagram](https://www.instagram.com/p/DCiSsJktGxh)  
 
-        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with music, dance, and food, attended by **200 participants**.  
+        - **Bangladeshi Night – VCU (Nov 2023):** Organized a cultural showcase with music, dance, and food, attended by **~200 participants**.  
           ![Bangladeshi Night VCU](/uploads/BCAGS.jpg)  
-          ![Event Flyer](/uploads/flyer_vcu.jpg)  
+          ![Event Flyer credit: Khairuzzaman Arnob.](/uploads/flyer_vcu.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298)  
 
         ### Music
