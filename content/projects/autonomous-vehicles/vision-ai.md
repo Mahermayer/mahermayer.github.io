@@ -10,7 +10,6 @@ tags:
   - UNet
   - ViT
 featured: true
-type: project
 ---
 
 This project implements **vision-based lane following and control** pipelines for autonomous driving.  
