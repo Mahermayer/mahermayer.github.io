@@ -9,7 +9,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Research Projects
+      title: Projects
       text: >
         Organized into four categories: Autonomous Vehicles, Cybersecurity, Smart Cities & CPS, and Anomaly Detection.  
         Click a category to explore projects.
