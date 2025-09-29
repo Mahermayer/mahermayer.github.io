@@ -27,8 +27,8 @@ sections:
         - Published papers on smart IoT systems, adversary and game-theoretic cybersecurity.  
 
         ***Major Projects:***  
-        - *Smart Cities Security (2023–24):* Proactive & reactive runtime monitoring, intrusion response under cyberattacks.  
-        - *Adversarial Attacks in AVs (2022):* Detection models for adversarial Basic Safety Message (BSM) in AV.  
+        - **Smart Cities Security (2023–24):** Proactive & reactive runtime monitoring, intrusion response under cyberattacks.  
+        - **Adversarial Attacks in AVs (2022):** Detection models for adversarial Basic Safety Message (BSM) in AV.  
 
         **Teaching Assistant Duties (VCU):**  
         - **EGRE 364: Microcomputer Systems** – Labs on microcontrollers, USART comms, stepper motors, line-following robots.  
