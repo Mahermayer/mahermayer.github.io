@@ -38,7 +38,10 @@ sections:
 
         ### Reviewer & Editorial Service  
         - **IEEE Robotics and Automation Letters (RA-L)**  
-        - **Elsevier Computer Networks**  
+        - **Elsevier Computer Networks**
+        - **IEEE Transactions on Network and Service Management**
+        - **IEEE International Conference on Computational Intelligence and Communication Networks (CICN) 2023**
+        - **IEEE 11th International Conference on Communication Systems and Network Technologies (CSNT 2022)**  
 
     design:
       width: wide 
