@@ -6,7 +6,7 @@ draft: false
 publishDate: '2025-09-28T19:36:06.862486Z'
 authors:
 - Mostafa Zaman
-- Maher Al Islam
+- **Maher Al Islam**
 - Nasibeh Zohrabi
 - Sherif Abdelwahed
 publication_types:
