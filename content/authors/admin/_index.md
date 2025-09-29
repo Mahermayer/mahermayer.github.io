@@ -46,7 +46,12 @@ education:
     date_end: 2024-07-31
     summary: | 
       Specialized in cyber-physical systems, system modeling, and network security.  
-
+interests:
+  - Autonomous Vehicles
+  - Adversarial AI
+  - Cybersecurity
+  - Cyber-Physical Systems
+  - AI Safety & Ethics
 work:
   - position: Graduate Research Assistant
     company_name: West Virginia University
