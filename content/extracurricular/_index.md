@@ -33,7 +33,7 @@ sections:
         ### Music
         - Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
         - Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)**, blending classic influences with modern sounds.  
-        - Sometimes I jam and upload on on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
+        - Sometimes I jam and upload on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
 
 
     design:
