@@ -35,21 +35,21 @@ profiles:
 
 education:
   - area: PhD in Computer Engineering (AI & Cybersecurity)
-    institution: West Virginia University
+    institution: West Virginia University WVU
     date_start: 2024-08-01
     summary: |
       Research focus on AI safety, adversarial robustness, and resilient autonomy in autonomous vehicles and cyber-physical systems.  
 
   - area: MS in Electrical & Computer Engineering (4.0/4.0 GPA)
-    institution: Virginia Commonwealth University
+    institution: Virginia Commonwealth University VCU
     date_start: 2021-01-20
     date_end: 2024-07-31
     summary: | 
       Specialized in cyber-physical systems, system modeling, and network security.  
 interests:
-  - Autonomous Vehicles
+  - Autonomous Vehicles WVU
   - Adversarial AI
-  - Cybersecurity
+  - Cybersecurity VCU
   - Cyber-Physical Systems
   - AI Safety & Ethics
 work:
@@ -79,7 +79,7 @@ skills:
       - name: Deep Learning for Perception (CNN, RNN, LSTM, ViT)
       - name: Bayesian & Predictive Modeling (time-series, anomaly detection)
 
-  - name: Autonomous Systems
+  - name: Autonomous Systems WVU
     items:
       - name: ROS for AV & Robotics      
       - name: Lane Following & Control (PID, MPC, FSM, RL, MDP)
@@ -87,7 +87,7 @@ skills:
       - name: Multi-Sensor Fusion (Camera & LiDAR)
       - name: CPS Modeling (Smart Home & Smart Water Distribution) 
 
-  - name: Cybersecurity
+  - name: Cybersecurity VCU
     items:
       - name: Cyber-Physical System Security
       - name: Adversarial Attacks & Defenses
