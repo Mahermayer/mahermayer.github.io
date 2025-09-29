@@ -61,4 +61,14 @@ features:
   privacy_pack:
     enable: false
 
+  # 👇 Add this
+  content:
+    publications:
+      count: 50
+    achievements:
+      count: 50
+    projects:
+      count: 50
+    posts:
+      count: 50
 
