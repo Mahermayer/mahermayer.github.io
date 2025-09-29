@@ -114,9 +114,8 @@ skills:
 
   - name: Hardware & Embedded Systems
     items:
-      - name: NVIDIA Jetson AGX Xavier
+      - name: NVIDIA Jetson AGX
       - name: Raspberry Pi
-      - name: Intel CPUs & Edge Devices
       - name: ZED Stereo Camera
       - name: IoT Systems (MQTT, TCP/UDP)
 
