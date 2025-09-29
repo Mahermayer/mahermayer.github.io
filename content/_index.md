@@ -30,7 +30,7 @@ sections:
         size: medium
         shape: circle
 
-  - block: resume-skills
+  - block: markdown
     content:
       title: Research Interests
       skills:
@@ -43,7 +43,7 @@ sections:
             - name: AI Safety & Ethics
     design:
       view: list
-      columns: 2
+      columns: 3
 
   - block: resume-experience
     content:
