@@ -30,7 +30,7 @@ sections:
         size: medium
         shape: circle
 
-  - block: markdown
+  - block: resume-skills
     content:
       title: Research Interests
       skills:
