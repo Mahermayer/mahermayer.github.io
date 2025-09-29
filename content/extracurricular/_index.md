@@ -29,16 +29,11 @@ sections:
           ![Event Flyer credit: Khairuzzaman Arnob.](/uploads/flyer_vcu.jpg)  
           🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298)  
 
-        ### Music
-        - **Guitarist & Performer:** Enthusiast of rock, alternative rock, and 90’s pop; frequently perform at cultural and community events.  
-        - **Band Member, Inslate:** Contributor to **[Inslate Music](https://www.youtube.com/@inslatemusic)** on YouTube, blending classic influences with modern sounds.  
-        - Enjoy collaborative jams and occasionally upload live sessions and originals online.  
      
-
         ### Music
-        - **Guitarist & Performer:** Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
-        - **Band Member, Inslate:** Played guitar in **[Inslate](https://www.youtube.com/@inslatemusic)**, blending classic influences with modern sounds.  
-        - Enjoy collaborative jams and occasionally upload live sessions and originals on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
+        - Enthusiast of rock, alternative rock, and 90’s pop, often performing at cultural and community events.  
+        - **Band Member, **[Inslate](https://www.youtube.com/@inslatemusic)**, blending classic influences with modern sounds.  
+        - Sometimes I jam and upload on on **[Youtube](https://www.youtube.com/@maheralislam5607)**.  
 
 
     design:
