@@ -4,4 +4,6 @@ summary: "Vision AI-based autonomous driving, context-aware autonomy, and advers
 #featured_image: "/uploads/autonomous-vehicles.jpg"   # pick a representative image
 type: page
 featured: true
+_build:
+  list: never  
 ---
