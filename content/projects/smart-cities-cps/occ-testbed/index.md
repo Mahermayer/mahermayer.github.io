@@ -9,7 +9,7 @@ featured_image: "/uploads/occ_smart_testbed.JPG"
 Building secure and resilient **smart cities** requires realistic testbeds to study how cyber-physical systems (CPS) behave under real-world conditions.  
 At VCU, the **OpenCyberCity (OCC) Testbed** was developed as a modular platform for **research and experimentation** on smart infrastructure.  
 
-![OCC Testbed Layout](/uploads/occ_smart_testbed.JPG)  
+![OCC Testbed Layout](/uploads/occ_smart_testbed.jpg)  
 
 ## My Contributions
 I contributed to OCC by working on:  
