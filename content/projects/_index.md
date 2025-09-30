@@ -14,6 +14,8 @@ sections:
         Organized into four categories: Autonomous Vehicles, Adversarial AI, Cybersecurity & CPS-ML.
       filters:
         folders: ["projects"]   # 👈 points to parent
+      count: 50   # <-- moved outside filters
+
     design:
       view: article-grid
       fill_image: true
