@@ -3,7 +3,6 @@ title: "Adversarial Robustness of Vision Models for AV"
 date: 2025-01-10
 summary: Adversarial attacks in Vision AI.
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
-featured_image: "/uploads/Black_n_White.png"
 ---
 
 This project investigates **adversarial robustness** in AV perception.  
