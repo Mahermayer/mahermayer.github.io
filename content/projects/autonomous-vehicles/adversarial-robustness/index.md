@@ -7,7 +7,7 @@ featured_image: "/uploads/Black_n_White.png"
 ---
 
 This project investigates **adversarial robustness** in AV perception.  
-Adversarial AI is broadly categorized into:
+Adversarial AI can be broadly categorized into:
 
 - **White-box attacks** → attacker knows the model and gradients  
 - **Black-box attacks** → attacker uses surrogate models and queries  
