@@ -20,7 +20,9 @@ sections:
       show_date: false
       show_read_more: false
       show_read_time: false
-
+      order_by: "weight"
+      sort_order: "asc"
+    
   - block: collection
     content:
       title: "Adversarial AI 🤖"
