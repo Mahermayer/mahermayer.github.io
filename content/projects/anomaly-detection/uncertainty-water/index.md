@@ -1,6 +1,6 @@
 ---
 title: "Uncertainty-Aware Anomaly Detection in Smart Water Systems"
-date: 2025-01-20
+date: 2025-01-10
 summary: Bayesian LSTM framework for anomaly detection and predictive analysis in water distribution systems with quantified uncertainty.
 tags: [CPS-ML, Anomaly Detection, Bayesian LSTM, Smart Water, Uncertainty]
 ---
