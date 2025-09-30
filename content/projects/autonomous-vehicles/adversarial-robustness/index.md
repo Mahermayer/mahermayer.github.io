@@ -5,7 +5,6 @@ summary: Systematic attacks (FGSM, PGD, DeepFool, ZOO, UAP) on YOLO/UNet/Vision-
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
 featured_image: "/uploads/Black_n_White.png"
 ---
-/uploads/
 We evaluate **white-box** and **black-box** attacks on AV perception:
 
 - **FGSM / PGD:** gradient-based ℓ∞ & ℓ2  
@@ -18,6 +17,7 @@ We evaluate **white-box** and **black-box** attacks on AV perception:
 **Metrics:** mAP (YOLO), Dice/IoU (UNet), control-level impact (velocity/omega deviations).
 
 ![Threat landscape](/uploads/Black_n_White.png)
+![Black-box vs White-box](/uploads/BW.png)
 
 ### Findings (abridged)
 - **PGD** most damaging to UNet; a small ε causes large centerline drift → steering oscillations.
