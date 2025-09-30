@@ -1,6 +1,6 @@
 ---
 title: "National Cyber League (NCL) CTF"
-date: 2025-02-05
+date: 2025-03-06
 summary: Ranked in the 97th percentile in the National Cyber League cybersecurity competition, excelling in cryptography, network forensics, and exploitation challenges.
 weight: 1   # 👈 will show first
 tags: [Cybersecurity, CTF, NCL, Forensics, Exploitation, Cryptography]
