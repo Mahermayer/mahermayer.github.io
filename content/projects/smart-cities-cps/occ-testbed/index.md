@@ -1,5 +1,5 @@
 ---
-title: "OpenCyberCity Testbed for Smart Cities"
+title: "OCC Testbed for Smart Cities"
 date: 2025-02-15
 summary: OpenCyberCity (OCC) is a modular testbed for modeling, simulation, and cybersecurity of smart city CPS, with applications in smart homes, water systems, and autonomous defense.
 tags: [CPS-ML, Smart Cities, Cybersecurity, Testbed, IoT]
