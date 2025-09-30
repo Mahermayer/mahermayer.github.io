@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Robustness of AI Models for AV"
 date: 2025-01-10
-summary: Adversarial attacks in Vision AI.
+summary: Adversarial attacks in AI models in AV.
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
 ---
 
