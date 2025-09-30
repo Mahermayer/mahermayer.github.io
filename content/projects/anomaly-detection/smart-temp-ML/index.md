@@ -5,8 +5,7 @@ summary: Integration of anomaly detection, LSTM forecasting, and PID control to 
 tags: [CPS-ML, Anomaly Detection, Smart Buildings, LSTM, PID, FDI Attack]
 ---
 
-In IoT-enabled smart buildings, temperature sensors are vulnerable to **false data injection (FDI) attacks** that can mislead controllers and compromise safety.  
-We propose a **multi-layer ML + control pipeline** that enhances resilience:
+In IoT-enabled smart buildings, temperature sensors are vulnerable to **false data injection (FDI) attacks** that can mislead controllers and compromise safety. We proposed a **multi-layer ML + control pipeline** that enhances resilience against emulated FDI attacks.
 
 ### Pipeline
 - **Random Forest Classifier** detects **FDI anomalies** in IoT sensor data.  
