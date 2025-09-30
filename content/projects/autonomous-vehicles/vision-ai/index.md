@@ -4,7 +4,6 @@ date: 2025-01-01
 summary: YOLO + PID pipeline for traffic-rule following in Duckietown, running with Dockerized ROS server integration.
 tags: [Autonomous Vehicles, Computer Vision, ROS, PID, YOLO, Docker]
 featured: true
-featured_image: "/uploads/Reactive_velocity.jpg"
 ---
 
 ## Setup  
