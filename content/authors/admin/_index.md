@@ -98,7 +98,7 @@ skills:
     items:
       - name: Python
       - name: C
-      - name: MATLAB/Simulink
+      - name: MATLAB/Simulink/ThingSpeak
       - name: ROS
       - name: Bash/Linux
 
