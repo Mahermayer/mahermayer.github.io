@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Control for Smart Water Distribution Systems"
-date: 2025-02-10
+date: 2025-01-05
 summary: Modeling and control of smart water distribution using Simulink-based CPS design and adaptive PID controllers for efficient, resilient urban infrastructure.
 tags: [CPS-ML, Smart Cities, Water Distribution, PID Control, Simulink, Adaptive Systems]
 ---
