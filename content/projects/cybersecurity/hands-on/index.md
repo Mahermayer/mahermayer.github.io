@@ -6,13 +6,10 @@ tags: [Cybersecurity, IoT Security, Network Security, MQTT, HVAC]
 featured_image: "/uploads/thingspeak.png"
 ---
 
-This work explores **low-level networking and IoT security**, focusing on both system setup and adversarial attack implementations.  
-Unlike CTF challenges, these are **protocol-grounded experiments** conducted in lab and IoT testbeds.
+This work explores **low-level networking and IoT security**, focusing on both system setup and adversarial attack implementations. Unlike CTF challenges, these are **protocol-grounded experiments** conducted in lab and IoT testbeds.
 
 ## System Setup (IoT / Smart-HVAC/MQTT)
-Part of this work used a Smart-HVAC testbed (sensor array → ThingSpeak telemetry → MATLAB control + Node.js MQTT broker on Raspberry Pi).  
-The full slide deck describing the IoT architecture, sensors, and control cases is available in the project materials.  
-
+PDeveloping a Smart-HVAC testbed (sensor array → ThingSpeak telemetry → MATLAB control + Node.js MQTT broker on Raspberry Pi).  
 **Key components**
 - TCP/UDP client-server apps in C; DNS config and NetFilter firewall rules.  
 - Raspberry Pi MQTT broker/client (Node.js) for telemetry and control.  
