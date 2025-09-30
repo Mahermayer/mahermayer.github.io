@@ -3,7 +3,7 @@ title: "Adversarial Robustness of Vision Models for AV"
 date: 2025-01-10
 summary: Systematic attacks (FGSM, PGD, DeepFool, ZOO, UAP) on YOLO/UNet/Vision-Transformer perception with stress tests relevant to driving.
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
-featured_image: "threat-landscape.png"
+featured_image: "/uploads/Black_n_White.png"
 ---
 /uploads/
 We evaluate **white-box** and **black-box** attacks on AV perception:
@@ -17,7 +17,7 @@ We evaluate **white-box** and **black-box** attacks on AV perception:
 
 **Metrics:** mAP (YOLO), Dice/IoU (UNet), control-level impact (velocity/omega deviations).
 
-![Threat landscape](/uploads/threat-landscape.png)
+![Threat landscape](/uploads/Black_n_White.png)
 
 ### Findings (abridged)
 - **PGD** most damaging to UNet; a small ε causes large centerline drift → steering oscillations.
