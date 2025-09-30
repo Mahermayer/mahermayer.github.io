@@ -2,10 +2,8 @@
 title: "National Cyber League (NCL) CTF"
 date: 2025-02-05
 summary: Ranked in the 97th percentile in the National Cyber League cybersecurity competition, excelling in cryptography, network forensics, and exploitation challenges.
+weight: 1   # 👈 will show first
 tags: [Cybersecurity, CTF, NCL, Forensics, Exploitation, Cryptography]
-weight: 1
-featured: false
-featured_image: false
 ---
 
 The **National Cyber League (NCL)** is a hands-on competition that tests defensive and offensive skills across realistic challenges in cryptography, forensics, web exploitation, and network analysis.  
