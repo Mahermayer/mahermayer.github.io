@@ -1,4 +1,4 @@
-# SITE SETUP
+m# SITE SETUP
 # Guide: https://docs.hugoblox.com/tutorial/
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
@@ -6,10 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: indigo
-  page:
-    width: wide   # options: normal, wide, full  
-
+  color: emerald
+  font: sans   # options: sans, serif, mono
 # SEO
 marketing:
   seo:
