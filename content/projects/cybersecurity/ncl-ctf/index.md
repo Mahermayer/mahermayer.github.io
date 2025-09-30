@@ -19,13 +19,6 @@ I participated in **Spring 2025** and placed in the **97th percentile**, demonst
 - **Web exploitation & SQLi:** discovery and exploitation using **Burp**, **sqlmap**, and manual payload crafting.  
 
 **Tools used**
-Nmap, Metasploit, Burp Suite, sqlmap, Netcat, Hashcat, John, Aircrack-ng, Wireshark, Scapy, Volatility.
-
-**Highlights**
-- Applied combined strategies (wordlists + rule sets + targeted masks) to recover credentials quickly.  
-- Decoded classical and modern cipher challenges by combining frequency analysis, cribbing, and automated tooling where useful.  
-- Fast triage of PCAPs and logfiles to extract IOCs and reconstruct attack timelines.  
-- Practical experience chaining reconnaissance → exploit → post-exploitation in timed scenarios.
-
+Nmap, Metasploit, Burp Suite, sqlmap, Netcat, Hashcat, John, Aircrack-ng, Wireshark, Scapy, Volatility, Ghidra.
 
 **Takeaway.** NCL sharpened both offensive tooling and defensive investigation workflows — the exact practical skills applied daily in red/blue exercises and incident response.
