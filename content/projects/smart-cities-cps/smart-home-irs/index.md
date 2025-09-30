@@ -34,5 +34,6 @@ To address this, we developed a **Model-Based Intrusion Response System (IRS)** 
 
 ## Results
 - The MDP-based IRS consistently outperformed baseline strategies in cumulative reward and system stability.  
-- Offline policy execution reduced average response latency to **~0.48 ms** (vs ~2.5 ms for online learning in our setup).  
+- Offline policy execution reduced average response latency to **~0.48 ms** (vs ~2.5 ms for online learning in our setup).
+  
 **Takeaway.** Protecting smart-home CPS requires system-aware defenses. By combining Simulink-based CPS modeling with MDP planning and offline policy synthesis, the IRS enables fast, cost-aware responses that preserve both safety and service continuity.
