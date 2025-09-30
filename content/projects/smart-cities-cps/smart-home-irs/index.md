@@ -2,7 +2,7 @@
 title: "Model-Based Intrusion Response System for Smart Homes"
 date: 2025-02-20
 summary: MDP-based self-protection framework for smart homes, enabling autonomous, real-time defense against cyber-physical attacks on IoT and CPS devices.
-tags: [CPS-ML, MDP, Cybersecurity, Reinforcement Learning, Simulink]
+tags: [CPS-ML, MDP, Reinforcement Learning, Simulink]
 ---
 
 Smart homes are a critical layer of **cyber-physical systems (CPS)** in modern cities, but they are increasingly targeted by adaptive cyber-attacks on IoT sensors and controllers. Traditional static defenses and pure IDS approaches struggle with low-latency, system-aware response.  
