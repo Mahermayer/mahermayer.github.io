@@ -1,7 +1,7 @@
 ---
-title: "Adversarial Robustness of AI Models for AV"
-date: 2025-01-10
-summary: Adversarial attacks in AI models in AV.
+Title: Adversarial Robustness of AI Models in Autonomous Vehicles
+Date: 2025-01-10
+Summary: Analyzing adversarial threats and mitigation strategies for AI models in autonomous vehicles.
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
 ---
 
