@@ -1,6 +1,6 @@
 ---
 title: "ML-Based Temperature Control with Anomaly Detection (Smart Buildings)"
-date: 2025-01-25
+date: 2025-01-12
 summary: Integration of anomaly detection, LSTM forecasting, and PID control to defend against false data injection (FDI) in IoT-enabled HVAC systems.
 tags: [CPS-ML, Anomaly Detection, Smart Buildings, LSTM, PID, FDI Attack]
 ---
