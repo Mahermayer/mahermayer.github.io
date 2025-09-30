@@ -9,21 +9,37 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: >
-        Organized into four categories: Autonomous Vehicles, Cybersecurity, Smart Cities & CPS, and Anomaly Detection.  
-        Click a category to explore projects.
+      title: Autonomous Vehicles
       filters:
-        folders:
-          - autonomous-vehicles
-          - cybersecurity
-          - smart-cities-cps
-          - anomaly-detection
+        folders: ["autonomous-vehicles"]
     design:
       view: article-grid
-      fill_image: false
       columns: 2
-      show_date: false
-      show_read_time: false
-      show_read_more: true
+
+  - block: collection
+    content:
+      title: Cybersecurity
+      filters:
+        folders: ["cybersecurity"]
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Smart Cities & CPS
+      filters:
+        folders: ["smart-cities-cps"]
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    content:
+      title: Anomaly Detection
+      filters:
+        folders: ["anomaly-detection"]
+    design:
+      view: article-grid
+      columns: 2
 ---
