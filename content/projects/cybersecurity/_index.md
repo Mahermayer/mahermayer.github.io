@@ -1,20 +1,19 @@
 ---
-title: "Cybersecurity"
-summary: "Game-theoretic defense strategies, CTF tooling, and forensics for resilient CPS and cloud systems."
+title: "Autonomous Vehicles"
+summary: "Vision AI-based autonomous driving, context-aware autonomy, and adversarial robustness for resilient AV systems."
 type: landing
 
 sections:
   - block: collection
     content:
-      title: Cybersecurity Projects
-      text: Explore my work on cybersecurity, ranging from game-theoretic DDoS mitigation to hands-on CTF tools and forensic analysis.
+      title: "Autonomous Vehicle Projects"
+      text: Explore my work on resilient and intelligent autonomous driving systems.
       filters:
-        folders:
-          - projects/cybersecurity
+        tags: ["Autonomous Vehicles"]
       count: 50
     design:
       view: article-grid
-      fill_image: false
+      fill_image: true
       columns: 2
       show_date: false
       show_read_time: false
