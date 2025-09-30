@@ -25,5 +25,5 @@ In this work, we model the attacker–defender interaction as a **game-theoretic
 **Highlights**
 - Captures **strategic attacker behavior** under spoofed vs. real IP traffic.  
 - Demonstrates practical **decision-making framework** for organizations at different scales.
-- 
+
 **Takeaway.** Game-theoretic security provides a principled way to identify **Nash equilibria** that minimize costs and adaptively defend against DDoS, guiding organizations toward **cost-effective, resilient cloud defense strategies**.
