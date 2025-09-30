@@ -2,6 +2,7 @@
 title: "Game-Theoretic DDoS Mitigation for Cloud Services"
 date: 2025-02-01
 summary: Game-theoretic modeling of DDoS defense strategies in cloud environments, balancing attacker and defender costs with optimal mitigation.
+weight: 2
 tags: [Cybersecurity, Game Theory, DDoS, Cloud Security]
 ---
 
