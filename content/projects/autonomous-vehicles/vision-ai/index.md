@@ -20,6 +20,6 @@ featured_image: "/uploads/Reactive_velocity.jpg"   # local to this folder
 <video src="/uploads/Yolo2.mp4" controls playsinline style="width:100%; margin-top:0.5rem;"></video>
 
 ## Results
-![Normalized velocity on two maps](Reactive_velocity.jpg)
+![Normalized velocity on two maps](/uploads/Reactive_velocity.jpg)
 
 **Takeaways.** PID with tight anti-windup and a rule-based scheduler is plenty for small-scale AVs—until perception gets weird. Then we need context and robustness (next two projects).
