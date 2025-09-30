@@ -1,6 +1,6 @@
 ---
 title: "Vision AI–based Autonomous Driving"
-date: 2026-01-01
+date: 2025-02-27
 summary: YOLO + PID pipeline for traffic-rule following in Duckietown, running with Dockerized ROS server integration.
 weight: 1   # 👈 will show first
 tags: [Autonomous Vehicles, Computer Vision, ROS, PID, YOLO, Docker]
