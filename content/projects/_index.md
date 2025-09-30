@@ -10,15 +10,12 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: >
-        Organized into four categories: Autonomous Vehicles, Cybersecurity, Smart Cities & CPS, and Anomaly Detection.
       filters:
-        folders: ["projects"]   # 👈 points to parent
-        exclude_children: false # 👈 lets Hugo pick up subfolders
+        folders: ["."]
     design:
       view: article-grid
-      fill_image: true
       columns: 2
-      show_date: false
-      show_read_more: false
+      fill_image: false
+      show_read_more: true
+
 ---
