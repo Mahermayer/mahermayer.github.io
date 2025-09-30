@@ -11,7 +11,7 @@ sections:
     content:
       title: Autonomous Vehicles
       filters:
-        folders: ["autonomous-vehicles"]
+        folders: ["projects/autonomous-vehicles"]
     design:
       view: article-grid
       columns: 2
@@ -20,7 +20,7 @@ sections:
     content:
       title: Cybersecurity
       filters:
-        folders: ["cybersecurity"]
+        folders: ["projects/cybersecurity"]
     design:
       view: article-grid
       columns: 2
@@ -29,7 +29,7 @@ sections:
     content:
       title: Smart Cities & CPS
       filters:
-        folders: ["smart-cities-cps"]
+        folders: ["projects/smart-cities-cps"]
     design:
       view: article-grid
       columns: 2
@@ -38,7 +38,7 @@ sections:
     content:
       title: Anomaly Detection
       filters:
-        folders: ["anomaly-detection"]
+        folders: ["projects/anomaly-detection"]
     design:
       view: article-grid
       columns: 2
