@@ -7,7 +7,7 @@
 appearance:
   mode: system
   color: teal   # keep emerald as the base theme
-  font: mono
+  font: serif
 # SEO
 marketing:
   seo:
