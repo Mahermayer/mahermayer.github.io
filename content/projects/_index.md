@@ -1,45 +1,24 @@
 ---
-title: 'Projects'
+title: "Projects"
 date: 2024-05-19
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: "5rem"
 
 sections:
   - block: collection
     content:
-      title: Autonomous Vehicles
+      title: Projects
+      text: >
+        Organized into four categories: Autonomous Vehicles, Cybersecurity, Smart Cities & CPS, and Anomaly Detection.
       filters:
-        folders: ["projects/autonomous-vehicles"]
+        folders: ["projects"]   # 👈 points to parent
+        exclude_children: false # 👈 lets Hugo pick up subfolders
     design:
       view: article-grid
+      fill_image: true
       columns: 2
-
-  - block: collection
-    content:
-      title: Cybersecurity
-      filters:
-        folders: ["projects/cybersecurity"]
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Smart Cities & CPS
-      filters:
-        folders: ["projects/smart-cities-cps"]
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: Anomaly Detection
-      filters:
-        folders: ["projects/anomaly-detection"]
-    design:
-      view: article-grid
-      columns: 2
+      show_date: false
+      show_read_more: false
 ---
