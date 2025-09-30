@@ -27,8 +27,8 @@ sections:
 
         - **Bangladeshi Night – VCU (Nov 2023):** Founded an organization to foster Bengali culture at VCU and arranged a cultural showcase with bengali music, dance, drama, and food, attended by **~200 participants**. 
           ![Bangladeshi Night VCU](/uploads/flyer_vcu.png)Flyer Credit: Khairuzzaman Arnob. 
-          ![Bangladeshi Night VCU ](/uploads/BCAGS.jpg)  
-          🎥 [Watch Highlight Performance](https://youtu.be/THXOTEfH0x8?t=298) 
+          [Bangladeshi Night VCU ](/uploads/BCAGS.jpg)  
+          🎥 [Watch Bangladeshi Night](https://youtu.be/THXOTEfH0x8?t=298) 
 
         ### Music
         <div style="display: flex; align-items: center; gap: 20px;">
