@@ -23,9 +23,9 @@ sections:
 
   - block: collection
     content:
-      title: "Adversarial AI"
+      title: "Adversarial AI 🤖"
       filters:
-        tags: ["Adversarial AI 🤖"]
+        tags: ["Adversarial AI"]
       count: 50
     design:
       view: article-grid
