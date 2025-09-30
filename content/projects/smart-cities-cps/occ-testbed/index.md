@@ -19,11 +19,9 @@ I contributed to OCC by working on:
 ## Cybersecurity & Resilience
 A key focus was the development of an **Autonomous Intrusion Response System (IRS)**, which applies **Markov Decision Processes (MDP)** and reinforcement learning for autonomous defense.  
 - Agents interact with smart city subsystems to learn defensive strategies.  
-- Simulated adversarial scenarios include DoS, spoofing, and hijacking attacks.  
+- Simulated adversarial scenarios include DoS, spoofing, FDI and hijacking attacks.  
 
 ![Autonomous IRS model in OCC](/uploads/SmartComp_Poster.jpg)  
 
-\ 
-**Award-winning poster at IEEE SmartComp 2024**.  
 
 **Takeaway.** OCC connects **smart city development** with **cybersecurity research**, advancing sustainable infrastructure, IoT resilience, and autonomous defense strategies for next-generation urban systems.  
