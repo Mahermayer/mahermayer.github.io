@@ -9,13 +9,10 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
-      text: >
-        Organized into four categories: Autonomous Vehicles, Adversarial AI, Cybersecurity & CPS-ML.
+      title: "Autonomous Vehicles"
       filters:
-        folders: ["projects"]   # 👈 points to parent
-      count: 50   # <-- moved outside filters
-
+        tags: ["Autonomous Vehicles"]
+      count: 50
     design:
       view: article-grid
       fill_image: true
@@ -23,5 +20,46 @@ sections:
       show_date: false
       show_read_more: false
       show_read_time: false
-    
+
+  - block: collection
+    content:
+      title: "Adversarial AI"
+      filters:
+        tags: ["Adversarial AI"]
+      count: 50
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 2
+      show_date: false
+      show_read_more: false
+      show_read_time: false
+
+  - block: collection
+    content:
+      title: "Cybersecurity"
+      filters:
+        tags: ["Cybersecurity"]
+      count: 50
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 2
+      show_date: false
+      show_read_more: false
+      show_read_time: false
+
+  - block: collection
+    content:
+      title: "CPS-ML"
+      filters:
+        tags: ["CPS-ML"]
+      count: 50
+    design:
+      view: article-grid
+      fill_image: true
+      columns: 2
+      show_date: false
+      show_read_more: false
+      show_read_time: false
 ---
