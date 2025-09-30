@@ -5,8 +5,7 @@ summary: Bayesian LSTM framework for anomaly detection and predictive analysis i
 tags: [CPS-ML, Anomaly Detection, Bayesian LSTM, Smart Water, Uncertainty]
 ---
 
-In smart water distribution, anomaly detection must go beyond labels — **prediction confidence matters**.  
-We developed a **Bayesian LSTM** framework to forecast water demand while quantifying uncertainty:contentReference[oaicite:0]{index=0}.  
+In smart water distribution, anomaly detection must go beyond labels — **prediction confidence matters**. We developed a **Bayesian LSTM** framework to forecast water demand while quantifying uncertainty.
 ![Uncertainty Water](/uploads/uncertainty_water.png)
 
 **Highlights**
