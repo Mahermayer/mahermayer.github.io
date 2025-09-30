@@ -98,7 +98,7 @@ skills:
     items:
       - name: Python
       - name: C
-      - name: MATLAB/Simulink/ThingSpeak
+      - name: MATLAB/Simulink
       - name: ROS
       - name: Bash/Linux
 
@@ -109,7 +109,7 @@ skills:
       - name: OpenCV
       - name: Scikit-learn
       - name: Docker
-      - name: Git (🟠 This site is hosted on Github!)
+      - name: Git
 
   - name: Hardware & Embedded Systems
     items:
