@@ -3,7 +3,7 @@ title: "Context-Aware Autonomy under Perception Gaps"
 date: 2025-01-05
 summary: LaneNet-style UNet with Squeeze-and-Excitation + depthwise separable convolutions and loss tailoring to survive missing/occluded lanes and adversarial noise.
 tags: [Autonomous Vehicles, Lane Keeping, UNet, LaneNet, SE, DepthwiseConv, Robustness]
-featured_image: "ICRA_UNet.jpg"
+featured_image: "/uploads/ICRA_UNet.jpg"
 ---
 
 We mimic **adversarial settings** (missing/occluded lane markings, noise, motion blur) and train a **LaneNet-style UNet** with two robustness tweaks:
