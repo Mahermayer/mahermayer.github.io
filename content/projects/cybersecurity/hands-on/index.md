@@ -32,4 +32,4 @@ I also worked on different attack implementation using 3 different Virtual Machi
 - **Mitnick-style TCP session manipulations** to study session hijacking.  
  
 
-**Takeaway.** These experiments deepen understanding of real-world protocol security and control safety in IoT/CPS systems, and they directly informed mitigation steps presented in the Smart-HVAC slides.
+**Takeaway.** These experiments deepen understanding of real-world protocol security and control safety in IoT/CPS systems.
