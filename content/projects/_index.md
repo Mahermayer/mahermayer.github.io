@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - projects
+        exclude_children: true   # 👈 prevents showing nested projects
     design:
       view: article-grid
       fill_image: false
