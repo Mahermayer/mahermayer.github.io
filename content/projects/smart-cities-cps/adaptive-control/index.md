@@ -14,15 +14,12 @@ Smart cities rely on **resilient cyber-physical systems (CPS)** to manage critic
 - Developed **Simulink models** of multi-reservoir and multi-building distribution systems. ![Simulink hydraulic system model](/uploads/WDS_simulink.jpg)  
 - Incorporated **PID controllers** for pump and valve actuation to regulate pressure and flow.  
 - Designed **adaptive control loops** for uncertainty handling (e.g., variable demand, leak/fault conditions).  
-- Modeled CPS integration — sensors (flow/pressure), actuators (pumps/valves), and communication delays.  
-
 ## Results
 - Adaptive PID achieved **stable pressure regulation** across varying demand scenarios.  
 - Showed improved efficiency by reducing **energy consumption** while ensuring supply reliability.  
 
 ## Highlights
 - Hands-on learning with **Simulink CPS modeling and PID tuning**.  
-- Integration of physical dynamics (hydraulics) with cyber controls (sensing, decision-making).  
 - Foundations for **secure and resilient CPS** in smart city infrastructure.  
 
 **Takeaway.** Smart city CPS research requires **system-level thinking** — modeling, control, and security must work together to ensure safe and sustainable infrastructure.  
