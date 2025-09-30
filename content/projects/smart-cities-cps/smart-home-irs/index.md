@@ -13,17 +13,15 @@ To address this, we developed a **Model-Based Intrusion Response System (IRS)** 
 ![Smart home IRS attack model](/uploads/CCI_Smart_home.png)
 
 ## Approach
-1. **CPS modeling (system first)**  
+1. **System Modeling**  
    - Built a realistic smart-home temperature control model in **MATLAB/Simulink** using bang-bang controller to capture sensing, actuation, and control loops. This provides the physical environment and timing semantics used for all evaluations.  
-   - The Simulink testbed reproduces sensor sampling, communication delays, actuator latencies, and the temperature control loop used in experiments.  
    ![Temperature Control Simulink Model](/uploads/Room.png)
 
 2. **Threat modeling (attack profiles)**  
    - Emulated a comprehensive attacker model covering: **replay, sniffing, eavesdropping, false data injection, spoofing, MiTM, code injection, malware injection, jamming, and DDoS**.  
 
 3. **Defensive capabilities & system configurations**  
-   - Modeled actionable defenses available on the smart-home platform: **activate firewall, data encryption, deploy honeypot, quarantine host, firmware update, system reboot, manual resolution**, etc.  
-   - Each defensive action has an associated cost and latency captured in the environment model.
+   - Modeled actionable defenses available on the smart-home platform: **activate firewall, data encryption, deploy honeypot, quarantine host, firmware update, system reboot, manual resolution**, etc. Each defensive action has an associated cost and latency captured in the environment model.
 
 4. **MDP formulation & policy derivation**  
    - Designed a reward function that balances **security benefit** (reduction in system compromise / control error) against **operational cost** (latency, user disruption, resource usage).  
@@ -38,6 +36,4 @@ To address this, we developed a **Model-Based Intrusion Response System (IRS)** 
 ## Results
 - The MDP-based IRS consistently outperformed baseline strategies in cumulative reward and system stability.  
 - Offline policy execution reduced average response latency to **~0.48 ms** (vs ~2.5 ms for online learning in our setup).  
-- The Simulink HVAC testbed demonstrated resilience to data alteration, delay, and disruption: the controller retained safe setpoint behavior with minimal overshoot under attack.
-
 **Takeaway.** Protecting smart-home CPS requires system-aware defenses. By combining Simulink-based CPS modeling with MDP planning and offline policy synthesis, the IRS enables fast, cost-aware responses that preserve both safety and service continuity.
