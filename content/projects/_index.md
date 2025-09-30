@@ -11,7 +11,7 @@ sections:
     content:
       title: Projects
       text: >
-        Organized into four categories: Autonomous Vehicles, Cybersecurity, Smart Cities & CPS, and Anomaly Detection.
+        Organized into four categories: Autonomous Vehicles, adversarial AI, Cybersecurity & CPS.
       filters:
         folders: ["projects"]   # 👈 points to parent
     design:
