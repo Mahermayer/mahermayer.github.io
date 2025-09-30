@@ -3,11 +3,13 @@ title: "Anomaly Detection in Basic Safety Messages (CAVs)"
 date: 2025-01-15
 summary: ML-based detection of anomalous Basic Safety Messages (BSMs) in connected autonomous vehicles (CAVs) for secure V2X communication.
 tags: [CPS-ML, Anomaly Detection, Connected Vehicles, BSM, ML, V2X, Security]
-featured_image: "/uploads/cav_bsm.jpg"
+featured_image: "/uploads/BSM.png"
 ---
 
 Basic Safety Messages (BSMs) are the backbone of **V2V/V2I communication** in connected autonomous vehicles.  
 We evaluated multiple **machine learning classifiers** — including Random Forest, SVM, and Neural Networks — to detect anomalous or malicious BSMs.  
+
+![BSM anomaly detection pipeline](/uploads/bsm_cav.png)
 
 **Highlights**
 - Real-time classification of anomalous messages.  
