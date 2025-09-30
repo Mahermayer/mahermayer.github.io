@@ -1,5 +1,5 @@
 ---
-title: "Adversarial Robustness of Vision Models for AV"
+title: "Adversarial Robustness of AI Models for AV"
 date: 2025-01-10
 summary: Adversarial attacks in Vision AI.
 tags: [Adversarial AI, Robustness, FGSM, PGD, DeepFool, UAP, ZOO, YOLO, UNet, ViT]
@@ -26,8 +26,8 @@ We explore **systematic attacks** against vision models used in AV:
 ![Adversarial Framework](/uploads/Black_n_White.png)
 
 **Targets:**  
-- YOLO (traffic signs/lights)  
-- UNet (lane segmentation)  
+- Object Detection Models (traffic signs/lights)  
+- Segmentation Networks (lane segmentation)  
 - ViT (auxiliary classification)  
 
 ---
