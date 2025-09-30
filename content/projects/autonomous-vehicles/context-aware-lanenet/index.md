@@ -23,7 +23,7 @@ We utilize a **spatio-temporal context** to infer lane centers when lane pixels 
 ---
 
 ## Demo
-<video src="/uploads/ICRA_Final.mp4" controls playsinline style="width:100%;"></video>
+<video src="/uploads/Trajectory.mp4" controls playsinline style="width:100%;"></video>
 
 ---
 
