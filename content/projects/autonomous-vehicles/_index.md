@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Vehicles"
-summary: "Vision AI-based autonomous driving, context-aware autonomy, and adversarial robustness for resilient AV systems."
+summary: "AI-based autonomous driving, context-aware autonomy, and adversarial robustness for resilient AV systems."
 type: landing
 
 sections:
@@ -11,7 +11,7 @@ sections:
       filters:
         tags: ["Autonomous Vehicles"]
       count: 50
-      order_by: "weight"
+      sort_by: "weight"
       sort_order: "asc"
     design:
       view: article-grid
