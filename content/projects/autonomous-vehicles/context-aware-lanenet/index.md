@@ -1,6 +1,6 @@
 ---
 title: "Context-Aware Autonomous Driving under Degraded Environments"
-date: -2
+date: 2025-02-03
 summary: LaneNet for autonomous driving under degraded and adversarial lane environments.
 weight: 2  # 👈 will show first
 tags: [Autonomous Vehicles, Lane Keeping, UNet, LaneNet, DWConv, SE Blocks, Context-Aware]
