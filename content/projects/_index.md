@@ -9,7 +9,7 @@ design:
 sections:
   - block: collection
     content:
-      title: "Autonomous Vehicles"
+      title: "Autonomous Vehicles 🚗"
       filters:
         tags: ["Autonomous Vehicles"]
       count: 50
@@ -25,7 +25,7 @@ sections:
     content:
       title: "Adversarial AI"
       filters:
-        tags: ["Adversarial AI"]
+        tags: ["Adversarial AI 🤖"]
       count: 50
     design:
       view: article-grid
@@ -37,7 +37,7 @@ sections:
 
   - block: collection
     content:
-      title: "Cybersecurity"
+      title: "Cybersecurity 🛡️"
       filters:
         tags: ["Cybersecurity"]
       count: 50
@@ -51,7 +51,7 @@ sections:
 
   - block: collection
     content:
-      title: "CPS-ML"
+      title: "CPS-ML 🏗️⚙️"
       filters:
         tags: ["CPS-ML"]
       count: 50
