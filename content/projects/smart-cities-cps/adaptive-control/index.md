@@ -4,6 +4,9 @@ date: 2025-02-10
 summary: Modeling and control of smart water distribution using Simulink-based CPS design and adaptive PID controllers for efficient, resilient urban infrastructure.
 tags: [CPS-ML, Smart Cities, Water Distribution, PID Control, Simulink, Adaptive Systems]
 featured_image: "/uploads/WDS_simulink.jpg"
+show_date: false
+show_read_time: false
+show_read_more: false
 ---
 
 Smart cities rely on **resilient cyber-physical systems (CPS)** to manage critical infrastructure. This project focused on **adaptive control in smart water distribution networks**, integrating hydraulic system modeling with cyber feedback loops.
