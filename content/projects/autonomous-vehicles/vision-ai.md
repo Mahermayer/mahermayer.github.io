@@ -4,6 +4,10 @@ date: 2025-01-01
 summary: Deep learning-driven lane following and perception systems with adversarial robustness.
 tags: [Autonomous Vehicles, Computer Vision, ROS, YOLO, UNet, ViT]
 featured: true
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
 ---
 This project implements **vision-based lane following and control** pipelines for autonomous driving.  
 
