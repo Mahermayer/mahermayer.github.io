@@ -1,6 +1,6 @@
 ---
 title: "Hands-on Network & IoT Security Experiments"
-date: 2025-02-08
+date: 2025-01-08
 summary: Practical implementation of client-server communication, IoT protocols, and classical network attacks to study CPS and IoT vulnerabilities.
 tags: [Cybersecurity, IoT Security, Network Security, MQTT, HVAC]
 featured_image: "/uploads/thingspeak.png"
