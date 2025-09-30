@@ -31,6 +31,7 @@ sections:
       view: article-grid
       fill_image: true
       columns: 1
+      full_width: true   # 👈 stretches card
       show_date: false
       show_read_more: false
       show_read_time: false
