@@ -10,9 +10,11 @@ Smart cities rely on **resilient cyber-physical systems (CPS)** to manage critic
 ![Water distribution P&ID diagram](/uploads/WD-PFD.jpg)  
 
 ## Approach
-- Developed **Simulink model** of multi-reservoir and multi-building distribution systems. ![Simulink hydraulic system model](/uploads/WDS_simulink.jpg)  
+- Developed **Simulink model** of multi-reservoir and multi-building distribution systems.  
+  ![Simulink hydraulic system model](/uploads/WDS_simulink.jpg)  
 - Incorporated **PID controllers** for pump and valve actuation to regulate pressure and flow.  
 - Designed **adaptive control loops** for uncertainty handling (e.g., variable demand, leak/fault conditions).  
+
 ## Results
 - Adaptive PID achieved **stable pressure regulation** across varying demand scenarios.  
 - Showed improved efficiency by reducing **energy consumption** while ensuring supply reliability.  
