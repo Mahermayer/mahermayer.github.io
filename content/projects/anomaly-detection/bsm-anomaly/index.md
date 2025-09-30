@@ -5,10 +5,9 @@ summary: ML-based detection of anomalous Basic Safety Messages (BSMs) in connect
 tags: [CPS-ML, Anomaly Detection, Connected Vehicles, BSM, ML, V2X, Security]
 ---
 
-Basic Safety Messages (BSMs) are the backbone of **V2V/V2I communication** in connected autonomous vehicles.  
-We evaluated multiple **machine learning classifiers** — including Random Forest, SVM, and Neural Networks — to detect anomalous or malicious BSMs.  
+Basic Safety Messages (BSMs) are the backbone of **V2V/V2I communication** in connected autonomous vehicles. We evaluated multiple **machine learning classifiers** — including Random Forest, SVM, and Neural Networks — to detect anomalous or malicious BSMs.  
 
-![BSM anomaly detection pipeline](/uploads/bsm_cav.png)
+![BSM anomaly detection pipeline](/uploads/cav_bsm.png)
 
 **Highlights**
 - Real-time classification of anomalous messages.  
