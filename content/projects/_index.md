@@ -15,8 +15,10 @@ sections:
         Click a category to explore projects.
       filters:
         folders:
-          - projects
-        exclude_children: true   # 👈 prevents showing nested projects
+          - projects/autonomous-vehicles
+          - projects/cybersecurity
+          - projects/smart-cities-cps
+          - projects/anomaly-detection
     design:
       view: article-grid
       fill_image: false
