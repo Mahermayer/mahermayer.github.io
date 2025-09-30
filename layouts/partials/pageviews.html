@@ -1,0 +1,14 @@
+<span id="page-views"></span>
+<script>
+  (function() {
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://mahermayer.goatcounter.com/counter/" + encodeURIComponent(window.location.pathname) + ".json");
+    xhr.onload = function() {
+      if (xhr.status === 200) {
+        var data = JSON.parse(xhr.responseText);
+        document.getElementById("page-views").innerText = data.count_unique + " views";
+      }
+    };
+    xhr.send();
+  })();
+</script>
