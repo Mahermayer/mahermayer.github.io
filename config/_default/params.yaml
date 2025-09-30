@@ -6,11 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald   # keep emerald as the base theme
-  font:
-    heading: "Poppins"         # modern, bold headings
-    body: "Inter"              # clean, readable body text
-    monospace: "IBM Plex Mono" # for code/math snippets
+  color: teal   # keep emerald as the base theme
+  font: mono
 # SEO
 marketing:
   seo:
