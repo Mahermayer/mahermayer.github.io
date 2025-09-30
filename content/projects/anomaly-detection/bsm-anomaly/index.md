@@ -1,6 +1,6 @@
 ---
 title: "Anomaly Detection in Basic Safety Messages (CAVs)"
-date: 2025-01-15
+date: 2025-01-01
 summary: ML-based detection of anomalous Basic Safety Messages (BSMs) in connected autonomous vehicles (CAVs) for secure V2X communication.
 tags: [CPS-ML, Anomaly Detection, Connected Vehicles, BSM, ML, V2X, Security]
 ---
