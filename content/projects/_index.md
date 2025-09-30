@@ -13,8 +13,6 @@ sections:
       filters:
         tags: ["Autonomous Vehicles"]
       count: 50
-      sort_by: "weight"
-      sort_order: "asc"
     design:
       view: article-grid
       fill_image: true
