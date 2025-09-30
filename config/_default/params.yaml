@@ -61,14 +61,24 @@ features:
   privacy_pack:
     enable: false
 
-  # 👇 Add this
   content:
     publications:
       count: 50
+      show_date: false
+      show_read_time: false
+      show_read_more: false
     achievements:
       count: 50
+      show_date: false
+      show_read_time: false
+      show_read_more: false
     projects:
       count: 50
+      show_date: false
+      show_read_time: false
+      show_read_more: false
     posts:
       count: 50
-
+      show_date: false
+      show_read_time: false
+      show_read_more: false
