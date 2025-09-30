@@ -4,6 +4,9 @@ date: 2025-02-20
 summary: MDP-based self-protection framework for smart homes, enabling autonomous, real-time defense against cyber-physical attacks on IoT and CPS devices.
 tags: [CPS-ML, MDP, Cybersecurity, Reinforcement Learning, Simulink]
 featured_image: "/uploads/CCI_Smart_home.png"
+show_date: false
+show_read_time: false
+show_read_more: false
 ---
 
 Smart homes are a critical layer of **cyber-physical systems (CPS)** in modern cities, but they are increasingly targeted by adaptive cyber-attacks on IoT sensors and controllers. Traditional static defenses and pure IDS approaches struggle with low-latency, system-aware response.  
