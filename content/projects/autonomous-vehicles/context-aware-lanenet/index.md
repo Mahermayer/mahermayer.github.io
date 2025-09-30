@@ -1,7 +1,7 @@
 ---
 title: "Context-Aware Autonomous Driving under Degraded Environments"
 date: 2025-01-05
-summary: LaneNet (U-Net with depthwise separable convolutions and SE attention) for autonomous driving under degraded and adversarial lane environments.
+summary: LaneNet for autonomous driving under degraded and adversarial lane environments.
 tags: [Autonomous Vehicles, Lane Keeping, UNet, LaneNet, DWConv, SE Blocks, Context-Aware]
 weight: 2  # 👈 will show first
 
@@ -9,7 +9,7 @@ weight: 2  # 👈 will show first
 
 This work explores **context-aware autonomous driving** when lane markings are degraded, occluded, or adversarially perturbed.  
 
-We proposed **LaneNet**, a U-Net modified with **depthwise separable convolutions** and **squeeze-and-excitation attention**, designed to provide lightweight yet robust lane segmentation.  
+We propose **LaneNet**, a U-Net modified with **depthwise separable convolutions** and **squeeze-and-excitation attention**, designed to provide lightweight yet robust lane segmentation.  
 ![LaneNet overview](/uploads/ICRA_UNet.jpg)
 
 We utilize a **spatio-temporal context** to infer lane centers when lane pixels are missing or corrupted. This enables smooth control in degraded and adversarial conditions.  
