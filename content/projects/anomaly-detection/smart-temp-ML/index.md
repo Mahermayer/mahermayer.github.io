@@ -1,21 +1,24 @@
 ---
 title: "ML-Based Temperature Control with Anomaly Detection (Smart Buildings)"
 date: 2025-01-25
-summary: Fusion of ML anomaly detection, LSTM forecasting, and PID control for resilient IoT-enabled building temperature systems.
-tags: [Anomaly Detection, Smart Buildings, LSTM, PID, CPS Security]
-featured_image: "/uploads/building_temp.jpg"
+summary: Integration of anomaly detection, LSTM forecasting, and PID control to defend against false data injection (FDI) in IoT-enabled HVAC systems.
+tags: [CPS-ML, Anomaly Detection, Smart Buildings, LSTM, PID, FDI Attack]
+featured_image: "/uploads/smart_home_ML.png"
 ---
 
-We integrated **anomaly detection, predictive forecasting, and control** for IoT-based smart building temperature regulation.  
+In IoT-enabled smart buildings, temperature sensors are vulnerable to **false data injection (FDI) attacks** that can mislead controllers and compromise safety.  
+We propose a **multi-layer ML + control pipeline** that enhances resilience:
 
-**Pipeline**
-- **Random Forest** detects **false data injection (FDI) anomalies**.  
-- **LSTM forecasting** predicts safe thresholds.  
-- **PID control** corrects deviations in real-time.  
+### Pipeline
+- **Random Forest Classifier** detects **FDI anomalies** in IoT sensor data.  
+- **LSTM forecasting** predicts safe temperature setpoints, isolating suspicious signals.  
+- **PID controller** enforces corrective action in real time to maintain HVAC stability.  
 
-**Highlights**
-- Prevents energy waste and unsafe operations.  
-- Maintains comfort under sensor or network attacks.  
-- Demonstrates CPS cyber-physical integration of ML + control.  
+![FDI Anomaly-Aware HVAC Control](/uploads/smart_home_ML.png)
 
-**Takeaway.** Secure, anomaly-aware control ensures **energy-efficient and resilient smart buildings.**
+### Highlights
+- Prevents **energy misuse** and **unsafe thermal conditions**.  
+- Provides adaptive protection against **sensor/network attacks**.  
+- Demonstrates **cyber-physical resilience** by fusing anomaly detection with control.  
+
+**Takeaway.** Anomaly-aware control strengthens both **security and efficiency**, making smart buildings safer under adversarial conditions.
