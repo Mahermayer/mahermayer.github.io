@@ -40,7 +40,7 @@ education:
     summary: |
       Research focus on AI safety, adversarial robustness, and resilient autonomy in autonomous vehicles and cyber-physical systems.  
 
-  - area: MS in Electrical & Computer Engineering (4.0/4.0)
+  - area: MS in Electrical & Computer Engineering
     institution: Virginia Commonwealth University
     date_start: 2021-01-20
     date_end: 2024-07-31
