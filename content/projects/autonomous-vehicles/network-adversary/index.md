@@ -13,7 +13,7 @@ This work introduces a **hardware-in-the-loop Internet of Vehicles (IoV) testbed
 - **Communication Layer:** Network perturbations (delay, packet loss) are injected using the **MITRE ATT&CK** threat framework.  
 - **Integration:** The testbed couples a **Duckiebot edge client** with a **cloud perception–control server**, achieving real-time closed-loop testing of cross-layer vulnerabilities.
 
-![IoV Testbed Architecture](/uploads/iov_testbed.png)  
+![IoV Testbed Architecture](/uploads/iov_testbed.jpg)  
 
 ## Experimental Design  
 - **Hardware Setup:** Duckiebot with Jetson edge device connected via TCP to a cloud server (RTX A2000).  
@@ -23,14 +23,14 @@ This work introduces a **hardware-in-the-loop Internet of Vehicles (IoV) testbed
   - Network delay (100–250 ms) and packet loss (0.5–5%) injected via `tc netem`.  
 - **Control:** PID-based lane following and traffic-rule compliance evaluated under perturbed feedback loops.  
 
-![Detection under adversarial perturbations](/uploads/adv_yolo.jpg)  
+![Detection under adversarial perturbations](/uploads/adv_yolo.png)  
 
 ## Results  
 - **Perception degradation:** PGD reduces YOLOv8 **precision and recall to 0.22 and 0.15** at ϵ = 0.04.  
 - **Network degradation:** Delay ≥ 150 ms or loss ≥ 2% causes **trajectory drift and stop-sign violations**.  
 - **Cross-layer effect:** Even modest attacks in either domain cause cascading control failures, highlighting the need for **joint resilience across AI and communication layers**.  
 
-![Vehicle trajectories under network delay/loss](/uploads/network_impact.jpg)  
+![Vehicle trajectories under network delay/loss](/uploads/network_impact.png)  
 
 ## Conclusion  
 The study demonstrates that **minor perturbations at either the perception or communication layer can destabilize cloud-assisted AVs**.  
