@@ -32,6 +32,9 @@ This work introduces a **hardware-in-the-loop Internet of Vehicles (IoV) testbed
 
 ![Vehicle trajectories under network delay/loss](/uploads/network_impact.png)  
 
-## Conclusion  
+## Demo  
+<video src="/uploads/icc_2026.mp4" controls playsinline style="width:100%;"></video>  
+
+## Takeaway  
 The study demonstrates that **minor perturbations at either the perception or communication layer can destabilize cloud-assisted AVs**.  
 Future work will focus on **cross-layer defense mechanisms**, including latency-tolerant control, adversarially trained perception, and secure communication middleware for the Internet of Vehicles.
