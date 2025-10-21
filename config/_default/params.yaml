@@ -25,6 +25,10 @@ marketing:
   verification:
     google: ''
     baidu: ''
+    
+hooks:
+  head-end:
+    - partials/custom_head.html
 
 # Site header
 header:
