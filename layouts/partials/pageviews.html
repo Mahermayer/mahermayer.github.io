@@ -1,14 +1,23 @@
-<span id="page-views"></span>
+<span id="page-views">loading…</span>
 <script>
-  (function() {
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://mahermayer.goatcounter.com/counter/" + encodeURIComponent(window.location.pathname) + ".json");
-    xhr.onload = function() {
-      if (xhr.status === 200) {
-        var data = JSON.parse(xhr.responseText);
-        document.getElementById("page-views").innerText = data.count_unique + " views";
-      }
-    };
-    xhr.send();
-  })();
+(function() {
+  // prefer total if you want raw hits; use count_unique for unique visitors
+  var field = "count_total"; // or "count_unique"
+  var path = encodeURIComponent(window.location.pathname || "/");
+  var url = "https://mahermayer.goatcounter.com/counter/" + path + ".json";
+
+  fetch(url, { credentials: 'omit' })
+    .then(function(res) {
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      return res.json();
+    })
+    .then(function(data) {
+      var n = data && (data[field] || 0);
+      document.getElementById("page-views").textContent = n + " views";
+    })
+    .catch(function(err) {
+      console.warn("GoatCounter JSON error:", err);
+      document.getElementById("page-views").textContent = "—";
+    });
+})();
 </script>
