@@ -3,7 +3,3 @@ build:
 template:
   id: "academic-cv"
   name: "Academic CV"
-params:
-  hooks:
-    head-end:
-      - partials/custom_head.html
