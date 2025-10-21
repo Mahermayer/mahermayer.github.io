@@ -41,6 +41,14 @@ imaging:
   anchor: smart
   hint: picture
 timeout: 600000
+
+params:
+  features:
+    search: true
+  hooks:
+    head-end:
+      - partials/custom_head.html
+
 taxonomies:
   author: authors
   tag: tags
